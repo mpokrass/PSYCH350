@@ -68,3 +68,42 @@ Study also looked at when team is ahead or behind. 34% when team ahead, 67% when
 The depressed entitlement effect: when their are unequally positioned groups, disadvantaged people tend to believe they deserve less.
 
 - men tend to be paid more, women tend to believe they deserve less. Women internalize belief that their work is inferior. Adjust their perception of their input downwards.
+
+## Lecture 3 - Sept 14
+
+Meritocracy isn't the only principle of distributive justice, we also apply equality/egalitarianism. Eg. right to vote. Or allocation based on need, eg. communal sharing.
+
+Procedural justice as a determinant of the procedural legitimacy of the outcome. People care about the quality of procedures that yielded an outcome. We care about fair treatment in the procedures because fairness of the procedures is a signal that the decision makers respect us. This satisfies us with the process. Need to see that their interests/positions were paid attention to. 
+
+Even if the ultimate outcome isn't in agreement with one's interests, if the process is fair, they will be satisfied. Will view the decision as legitimate. Voice effect - voice has some role.
+
+Why do people care about the fairness of the procedure? Because the quality of the procedure conveys info about one's status within the group. Group tie to the authority figure. 
+
+Study with quality of outcome and fairness (grading). People cared more about quality of process rather than outcome. However fairness of treatment didn't matter as much for outgroup authorities. Thus the factors were quality of treatment for ingroup tie and quality of outcome when no shared ingroup tie.
+
+Trump: "I alone can fix these problems". Model of leadership where one exceptional leader has the required qualities. 
+
+Elections are often about different models of leadership.
+
+Obama at the democratic convention a week later: Trump isn't actually offering issues - he's just offering fear/slogans. He thinks that scaring people may win him the election. He believes in the constituion, that the people together can form a more perfect union. Americans want a leader that will mobilize the people to attain change together, mobilize collective efforts. 
+
+"great person" models - effective leaders have essential traits/abilities
+
+interactionist models - traits that determine leadership success depend upon fit with the task/challenge
+
+social identity model - leaders are successful to the extent that they embody qualities that represent the particular groups they lead.
+
+Obama uses more of a social identity model. He says that americans don't subscribe to the great person model because it doesn't fit american values.
+
+Leader success: do they match the values of the group + do they signal that they will be looking out for the group, prioritizing the group's interest. 
+
+Leaders can increase their effectiveness by being identity "entrepreneurs". Change the way that people perceive either their group or the leader. 
+
+- try to enhance the group's sense of identity (in-group)
+- change impressions of themselves to improve the match with in-group prototype
+
+Studies where people manipulate profiles of leaders. Those who match more closely are perceived to be more effective and charismatic.
+
+When leaders match the group more, this is a stronger predictor of effectiveness than assertiveness, stereotypical characteristics. 
+
+Stanford prison experiment. Conclusions that researchers were suspicious of. 
