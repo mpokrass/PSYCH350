@@ -107,3 +107,35 @@ Studies where people manipulate profiles of leaders. Those who match more closel
 When leaders match the group more, this is a stronger predictor of effectiveness than assertiveness, stereotypical characteristics. 
 
 Stanford prison experiment. Conclusions that researchers were suspicious of. 
+
+## Lecture 4 - Sept 16
+
+One of the prisoners would be selected by one of the guards to be promoted to a guard. 
+
+When social identities have permeable boundaries, people have less commitment to these identities. So this mitigates prisoners developing shared identity.
+
+Then phase 2: promoted someone, then group identities were fixed. 
+
+Phase 3: new prisoner introduced (expert union negotiator). Wanted to introduce someone with expertise that might frame the situation differently.
+
+Phase 4: negotiator is removed
+
+He didn't know that he was recruited with that in mind, wasn't given any special instructions. 
+
+Initially guards were ambivalent about their roles. Prisoners also weren't cohesive. Were compliant with guards. Scientists thought that guards would have a stronger feel for their role, but they did not. 
+
+Following the promotion (stage 2) prisoners started to act together, and guards banded together. 
+
+Negotiator encouraged both guards and prisoners to rethink their identities. Changed it from us vs them, to workers vs management. Guards and prisoners were employees of the BBC. 
+
+An opportunity: guard leaves keys behind and a prisoner steals them. This causes a crisis. This gave prisoners levarage. This guy wants to use them to make demands.
+
+The negotiator said instead they should all meet (guards + prisoners) every day to raise greivances. (DM is negotiator). DMs idea prevails. Original prisoner said that he didn't want to, wants to use it more immediately. DM won the argument. Presented himself as a representative of the prisoners. Embodies this role as spokesperson for the prisoners. Leadership fails to emerge among guards. 
+
+Prisoners group identity increased as time went on. 
+
+Then DM leaves and prisoners rebel. Staged a breakout form prison. Occupied the guard's quarters (sit-in). Forced the guards to engage in negotiations. Suggested abandoning the former structure: rebrand as a commune, all work together. 
+
+Dissent emerged among the prisoner group.
+
+Eventually the communal vision collapsed (and bad food). Change in people's views about the nature of leadership. More preference to authoritarian model.
