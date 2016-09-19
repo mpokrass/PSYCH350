@@ -139,3 +139,60 @@ Then DM leaves and prisoners rebel. Staged a breakout form prison. Occupied the 
 Dissent emerged among the prisoner group.
 
 Eventually the communal vision collapsed (and bad food). Change in people's views about the nature of leadership. More preference to authoritarian model.
+
+## Lecture 5 - Sept 19
+
+A group can get inspired to a leader and get committed to that leader. But if it doesn't translate to effectiveness, they become disheartened/discouraged. This causes a vaccuum and often leads to a more traditional view of leadership - imposing one's views on the world. We can see these in Trump. Giving praise to Putin, etc. 
+
+Build a wall - make Mexico pay for it; imposing his will. All of his deals are coercive negotiation tactic, not common ground. Very leader-focused model, not follower-focused. His success may be due to similar processes as in the prison experiments. When collectivism doesn't work, people sometimes turn to leader based. 
+
+-
+For democracy to succeed, individuals need to do their part. Citizens need to be active, otherwise democracy can't succeed. Citizens need to pay taxed and vote. For a thriving democracy, citizens should be engaged in political life. Should voice their concerns/interests. 
+
+The costs involved in voting seem to outweigh any individual benefit. Trying to understand the motivations that inspire people to vote. 
+
+Endorsing the view that voting is a citizen's duty is positively associated with likelihood of voting in elections. Individuals with ties to people who vote are more likely to vote. 
+
+People report voting significantly more than they actually do. If acts of civic engagement are motivated by social norms, this primes this civic duty and increases motivation to vote. Can make this normative pressure higher by monitoring people. Exposing people to public scrutiny. 
+
+-
+Study during election in Michigan, with low voter turnout.  2006 primary in Michigan. Identified 180k households. Randomly assigned each household to either control or 1 of 4 treatment conditions. These varied in level of social pressure. 
+
+People were mailed a voter turnout message 11 days before election. Messages varied in their content. 
+
+1. minimum social pressure, just a reminder. `Do your civic duty and vote`. Just priming.
+2. Ramp up the normative pressure. Made them aware that they are being studied. 
+3. `Who votes is public information.` Will send follow-up mail saying whether you voted or not. 
+4. Everyone in your neighbourhood will see who voted or not. Showed who voted in previous elections in this prelim notice. 
+
+Effects:
+
+1. Increased turnout by 1.8%
+2. Increased by 2.5%
+3. 4.8%
+4. 8.1%
+
+-
+Does the quality of normative feedback matter?
+
+One way is positive feedback when behaviour complies with social norms.
+
+Also negative feedback when norm is violated.
+
+Negative messages tend to be more effective. However extreme negative feedback that is stigmatizing and threatens self-esteem tends to backfire and further decrease performance. 
+
+Another study, 3 conditions:
+
+1. civic duty
+2. It's your civic duty to vote, track how you vote and give feedback
+3. Shame condition: not positive if did vote, negative information for when you didn't vote. Will get more follow up mail if doesn't vote again.
+
+Results:
+
+1. 1.8%
+2. 4%
+3. 6.3%
+
+-
+Voter turnout among young people is declining. Older voters believe it's a civic duty more. The normative climate that people are growing up in now doesn't impose this notion of civic duty. 
+
