@@ -196,3 +196,42 @@ Results:
 -
 Voter turnout among young people is declining. Older voters believe it's a civic duty more. The normative climate that people are growing up in now doesn't impose this notion of civic duty. 
 
+## Lecture 6 - Sept 21
+
+Voters need to judge complex issues. 
+
+- gov't handling of public issues
+- express opinions about priority ranking of public issues
+- understand and evaluate candidates' proposed policies
+
+Crime in Canada has been declining over time. But people kept thinking otherwise. Think that there was an urgent need for reform. 
+
+Justice minister replied saying "we don't govern on the basis of statistics"
+
+Canadian citizens thought that sentencing was "too lenient". Supreme court struck down mandatory minimums. Canadian's mostly agreed with supreme court, but not with mandatory minimum judgement.
+
+Most people think that crime rates have been increasing, even though that's not true. The media has a role to play in this effect. Also people judge based on emotional reactions, and recency effects. Also availability bias. "How easy is it for me to think of a case of crime?"
+
+-
+Inferential heuristics: we perform natural/easy judgements to avoid critical thinking.
+
+Eg. affective (like vs dislike) judgements, resemblence, ease of processing.
+
+Other judgements are harder for us to grasp.
+
+Eg. probability of success of policy initiatives, quality of gov't handling of crime, economy.
+
+When people are confronted by non-intuitive judgements, they often sub in an answer to a related intuitive judgement. 
+
+People overestimate terror attacks in usa, and overestimate sars in canada. Because these are more relevant in these places. SARS entered in Toronto. Salience of media coverage and public attention affects availability heuristic. 
+
+The feeling heuristic: rely on feelings they experience as they think about the topic. Also have transient feelings that affect our broader issues, eg. bad day. 
+
+Voting decisions heavily affected by whether or not local sports team had recently won. The effect gets bigger if the team is really popular. More likely to support the incumbent. 
+
+Asking people about obama after their team winning in march madness made them like obama more.
+Asking people about march madness before asking about obama made mitigated this effect. Merely asking this question eliminated outcome. Allowed them to get insight into their feelings. 
+
+Fluency heuristic: people use it to estimate the plausibility/importance of an outcome based on the ease they experience imagining that otcome. This can be bad when familiarity is not always ecologically valid as a cue to the plausibility/importance. Eg. global warming - today is cold though. 
+
+
