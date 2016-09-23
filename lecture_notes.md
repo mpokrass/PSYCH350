@@ -234,4 +234,64 @@ Asking people about march madness before asking about obama made mitigated this 
 
 Fluency heuristic: people use it to estimate the plausibility/importance of an outcome based on the ease they experience imagining that otcome. This can be bad when familiarity is not always ecologically valid as a cue to the plausibility/importance. Eg. global warming - today is cold though. 
 
+## Lecture 7 - Sept 23
+
+In the marketplace of ideas, higher quality ideas will spread and win out. 
+
+When we encounter an idea, we evaluate it in a neutral stance. We have the ability to comprehend information in an agnostic way. This is the cartesian view.
+
+Spinoza said that in the moment of comprehenstion, we have to initially entertain it as being true. It's not an agnostic stance, it's a credulous stance. We can of course eventually reject it, but to comprehend it we must initially believe it. When our ability to attend/process the information might be under stress, or we are distraced, then we are more vulnerable to believing untruthful things, because we have diminished ability. Don't apply/maintain the false tag to the thought. 
+
+Some evidence that Spinoza has a more accurate view. There is evidence for passive acceptance. 
+
+Developmental evidence: hyper-suggestability of children.
+
+Psychological evidence: sleep deprivation and susceptability to propoganda. 
+
+So how should we go about debunking bad ideas? In election campaigns there are often false statements being made. 
+
+-
+Study, CDC pamphlet saying facts and myths about vaccines.  Studied how many false beliefs people remembered: myths misremembered as true and facts misremembered as false. 
+
+Immediately: 4% misremembered facts as false and myths as true.
+
+In delayed recall: much more myths misidentified as true. The other errors did not go up. (seems to confirm spinozan model)
+
+False-ness tag is fragile, and now the myth has a ring of familiarity to it, so when you reconsider it it seems fluent and easy to process - lends it a sense of credibility. 
+
+Paradoxical implication - when there are false ideas, may be better off not doing fact-checking campaigns and repeating the claims, tagging them as false. 
+
+-
+Some argue that emotions engage our interests/motivations. Without emotional judgements we would be overwhelmed by information. This helps us prioritize and identify important stimuli. 
+
+Civil rights movement - campaign in Alabama, peaceful protest march. Only when emotionally charged images/videos were released did it galvanize the public. 
+
+3yr old boy who was found face down drowned during Syrian refugee crisis. Trudeau used this as ammunition, because he was running of a platform on accepting refugees. Harper gov't was on weaker position because of this. 
+
+-
+How should we value lives? two normative models of compassion
+
+If we believe that every human life is equally valuable, we shoud scale our emotional response based on the number of people involved. 
+
+If we believe that mass tragedies are especially damaging to the social fabric, we should care more when a crisis meets a critical mass. Exponential once it hits this point. 
+
+Psychophysical law: sensitivity to changes in stimulus value decrease as stimulus magnitude increases. Logarithmic difference. 
+
+"A single death is a tragedy; a million deaths is a statistic" - Stalin. We are more affected by things that are closer to us. 
+
+-
+Study:
+
+condition 1: info on statistics
+
+condition 2: particpants received info about single child
+
+condition 3: both 1 and 2
+
+Predicted that 1 would be less engaging. 
+
+Donated most in condition 1, next condition 3, then condition 2. Suggests that when we consider something as being broader in scope, it reduces our emotional response. 
+
+
+
 
