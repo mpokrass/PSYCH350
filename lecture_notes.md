@@ -292,6 +292,69 @@ Predicted that 1 would be less engaging.
 
 Donated most in condition 1, next condition 3, then condition 2. Suggests that when we consider something as being broader in scope, it reduces our emotional response. 
 
+## Lecture 8 - Sept 26
 
+We downregulate emotional response as scope becomes more significant. 
 
+How many victims must there be before it reduces our emotional response?
+
+single victim: either Rokia or Moussa (g vs b)
+
+two victims: info on both.
+
+Much more emotionally responsive when 1 victim than 2. Also reduced level of generosity towards the victims. When you present >1 it pulls out people's emotional involvement. 
+
+Attention to any particular victim gets diluted.
+
+Pseudo-inefficacy: negative feelings about not being able to help other victims diminish warm glow about help one can give. 
+
+-
+Manipulation of victim relatedness.
+
+If individual stories are very compelling, maybe there is a way to represent a collective group of victims as one concrete unit. Makes them into one coherent narrative. Maybe this will give the same level of emotional responsiveness. 
+
+IV: one victim vs eight victims related vs eight victims unrelated
+
+DV: how much people care
+
+Eight related is a singular coherent story, increases emotional responsiveness, when compared to unrelated. 
+
+Seen in emotional response and in amount of charitable response. 
+
+-
+Motivated reasoning and opinion polarization
+
+People are biased, first to seek out evidence that agrees with their point of view. People are biased to avoid inconvenient facts. Biased information seeking. 
+
+Biased in how we interpret information we are exposed to. 
+
+People are biased to accept arguments that confirm their existing beliefs and discount arguments that contradict their existing beliefs. 
+
+Asymmetrical skepticism. 
+
+With so many different media outlets, we are more likely of self-selecting media that agrees with our views. This contributes to the polarization of society. Exposure to idealogically-consistent information. 
+
+We may see a fractioning of society into hardened factions. 
+
+-
+Study examining web links
+
+Do people link to stuff more that shares their ideological leanings?
+
+Coded websites as conservative/liberal leaning, and content of links.
+
+100% of conservative websites had at least one link to another conservative site. Strongly linked with allies. Less than 20% of sites had a link to a liberal POV.
+
+Liberal sites had 92.8% vs 42.8%
+
+Hate groups had this even more pronounced effect. 
+
+Amazon book buying clusters, less likely to read opposing view books.
+
+-
+Analyze tweets of Canadians in 2011 election. Analyzed their tweets to find their views. Checked who they tweeted most with.
+
+Conservatives talk to each other a lot, but less to other parties. Observed connections vs expected connections. 
+
+Much more likely to exchange tweets with people in your party. 
 
