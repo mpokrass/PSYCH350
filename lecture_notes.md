@@ -358,3 +358,51 @@ Conservatives talk to each other a lot, but less to other parties. Observed conn
 
 Much more likely to exchange tweets with people in your party. 
 
+## Lecture 9 - Sept 28
+
+Trump is using some evidence saying that he won the debate, so is Clinton. 
+
+Each group thought that their candidate one. Independents thought Clinton won more though. Confirmation bias.
+
+Biased screening of information. 
+
+-
+Recruited a sample of participants, pre-screened to see if in favour of gun control or not.
+
+Read 16 different arguments, 4 different sources, 4 each (eg. republican, democratic, nra). Allowed people to read 8 arguments, no constraints on which ones they wanted.
+
+they decided themselves which sources to pursue information from.
+
+After that, summarize info to another student. Thinking was that they would want best info to present relevant and thoughtful commentary.
+
+Predicted that despite the motivation to be thoughtful, people would be motivated by biases to seek out confirming information.
+
+All arguments actually from the sources. Sample argument: futility argument. 
+
+Also measured participants' levels of political sophistication. Eg. who their senator is, supreme court dealings.
+
+Identify well-informed citizens vs ignorant. To identify where the motivated bias is more strong. Thinking that sophistication allows them to guide information better and sustain their bias - stronger motivated bias. 
+
+Bias in both cases. Pattern of bias is stronger in high information voters. 
+
+-
+We are credulous towards arguments that fit our beliefs, and skeptical of arguments that are conradictory. 
+
+Eg. Trump birther theory. 
+
+You'd think they'd be a skeptical group, but they believed very iffy behaviour that agreed with their thoughts. Non-skeptical towards stuff they want to believe. 
+
+High political knowledge people had more rejecting thoughts for opposing info. 
+
+Maybe high political knowledge people have already thought about these arguments, and aren't rejecting them out of bias. 
+
+Confirmation biases with motivated sources can add to further polarization of voters, and judgements of political issues. 
+
+Getting to know people on the other side of the issue. Basically getting to know them as a person first, and then realizing their beliefs. Opens people up to more constructive dialog. 
+
+-
+Conceptualizes attitudes as stored evaluations that a person retrieves and reports (file drawer assumption, traditional).
+
+
+
+
