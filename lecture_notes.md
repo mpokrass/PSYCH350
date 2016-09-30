@@ -403,6 +403,48 @@ Getting to know people on the other side of the issue. Basically getting to know
 -
 Conceptualizes attitudes as stored evaluations that a person retrieves and reports (file drawer assumption, traditional).
 
+## Lecture 9 - Sept 30
 
+Opinion surverys are a source of information about what the public wants. Tendency to presume that there are preexisting attitudes and opinion surverys merely reveal these attitudes to us.
 
+What might be misguided about this is that there is research that survey questions often lead to the construction of an attitude. Attitudes are constructed in the context in which they are being expressed.
 
+Queues from the context can be used to disambiguate what the question is about.
+
+Relatively superficial changes in question wording can lead to dramatic response changes.
+
+Eg. spending too little on "assistance to the poor" vs "welfare". 65% vs 20%
+
+Welfare has often been used as a symbol of overspending, laziness. This phrasing brings to mind negative associations. 
+
+Eg. Support for "gays and lesbians" serving in the military - 51%. Support for "homosexuals" serving in the military - 34%. 
+
+Outsider term. Might also be because most animosity is towards gay men, but reminding them of women lessens this. 
+
+-
+Psychological influences on responses to public opinion surveys.
+
+1. conversational norms: when questions are ambiguous, respondents use other cues in the conversational context to disambiguate meaning.
+
+2. Consistency pressures: respondents are motivated to seem consistent in their pattern of responses across survey items
+3. Motivation to create a good impression
+
+-
+Conversational norms:
+
+- survey respondents assume that surver designers expect them to be able to answer the questions they pose.
+- do they have a "don't know" option?
+
+Consistency
+
+- first vs second question (affirmative action for women vs minorities, stick to their first answer)
+
+Good impression
+
+- Save face that voted when didn't 
+- options to help people save face
+
+-
+Example of problematic media frame: false balance. Giving equal time to both sides, when both sides are not as legitimate. Well-intentioned on side of journalists. 
+
+People have a difficult time discounting evidence even if they're told it's from an unrepresentative source. 
