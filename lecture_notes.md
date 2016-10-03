@@ -448,3 +448,48 @@ Good impression
 Example of problematic media frame: false balance. Giving equal time to both sides, when both sides are not as legitimate. Well-intentioned on side of journalists. 
 
 People have a difficult time discounting evidence even if they're told it's from an unrepresentative source. 
+
+## Lecture 10 - Oct 3
+
+Defining propaganda: persuasion tactics that exploit common psychological biases to influence the public's attitudes, rather thean persuading the public based on the intellectual merits of the arguments. Propaganda techniques work best for low involvement audiences. 
+
+Other type is merits of the argument driving persuasion.
+
+Central route: persuasion is based on careful consideration of strengths and weaknesses of the argurments. Strong arguments should promote thoughts consistent with the message position. Weak arguments should promote counter-arguing (inconsistent thoughts)
+
+Peripheral route: support for message based on superficial cues (eg. prestige, number of arguments). When we're not as strongly engaged. 
+
+route depends on recipient's motivation and ability to process the message. 
+
+-
+Strategies of low involvement persuasion (propaganda)
+
+- simplicity
+  - if simple messages are more politically persuasive, then their public speech should exhibit low complexity when seeking office, and high complexity when in office (hypothesis)
+  - "campaign in poetry and govern in prose"
+  - integrative complexity: two interraleted factors:
+     - differentiation: number of different dimensions of a problem taken into account
+     - integration: degree to which complex connections are made between the dimensions of a problem
+     - code these and tell between seeking office and when in office
+   - turns out to be true, higher integrative complexity when in office than when seeking office (except Hoover, great depression)
+- repitition with variation
+  - preference for the familiar: mere exposure effect
+  - study with amount of exposure and what attitudes resulted
+  - increased exposure elevates levels of persuasion
+  - hyper-exposure might have the opposite effect however (reactives)
+- fluency heuristic
+  - people use the ease with which an idea is comprehended as a cue for judging its validity
+  - eg. slogans, catchphrases, rhyming, color schemes
+  - perceptually easy to process/digest message
+  - hypothesis: ideas easier to believe when attractive
+    - eg. woes unite foes vs woes unite enemies
+    - used rhyming/catchy phrases and kept the message, but made it no longer catchy
+    - same idea, just less catchy
+    - then common idioms that didn't rhyme initially, also maintained the intent but modified words
+    - result rhyming phrases were more "accurate", and modified to non rhyming were less "accurate"
+    - those that were originally non rhyming were less "accurate" than when altered
+    - Taking away catchiness removes salience
+    - gave another group of participants a warning about catchiness, base only on claim, not poetic wording
+    - this removed the biases
+- social consensus heuristic
+- stereotyping
