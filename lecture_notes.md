@@ -493,3 +493,36 @@ Strategies of low involvement persuasion (propaganda)
     - this removed the biases
 - social consensus heuristic
 - stereotyping
+
+## Lecture 11 - Oct 5
+
+Social consensus heiristic
+
+People use the apparent level of social support for an idea to decide whether they should support it
+
+Social consensus influences persuasion through 2 mechanisms:
+
+- informational influence: people assume that ideas that are popular must have more merit
+- conformity pressure: people fear that they will be socially sanctioned if they do not endorse popular ideas
+
+Audience reaction influences effectiveness of soundbites in Raegan's campaign.
+
+Politicians can implicity activate stereotypes. Called dog-whistle politics. Racist message is one that only the racist audience can pick up on. Other audiences will be deaf to it. Coded signals that will target the people with biases/prejudices.
+
+Eg. Willie Nelson "weekend pass" ad.
+
+Anti black stereotypes correlated with how they enjoyed steretoype reinforcing ad.
+
+Resistance to propaganda:
+
+- forewarning
+- attitude innoculation
+- promoting greater political involvement
+- policies: 
+  - requiring political advertisements to disclose source at start of message rather than following message
+  - format of political debates: audiences are instructed to not audibly respond to candidates
+
+-
+Psychological foundations of ideology
+
+  
