@@ -525,4 +525,97 @@ Resistance to propaganda:
 -
 Psychological foundations of ideology
 
-  
+## Lecture 12 - Oct 14
+
+Hypothesis: men who are prone to committing sexual harassment have a chronically accessible tendency to link power to sex.
+
+Prime (subliminal) and target words.
+
+Some primes were power related words (authority, strong) and ambiguous sex words (bed, motel) and some neutral words (clock, house)
+
+Measure: response facilitation scores for trials on which power was the prime and sex was the target. Higher scores suggest greater reponse facilitation for a given prime-target combination, quicker to respond. 
+
+Cross study, P->S and S->p and low likelihood to sexually harass, and high likelihood.
+
+Result: men who are more likely to sexually harass have a very high link of P->S, but not S->P. Cues of power stir up thoughts of sex.
+
+-
+Another study. Measure male particpants' propensity to commit sexual harassment.
+
+IV: prime participants with either power related words or neutral words. Eg. \_\_NTROL vs SAL\_D
+
+IV: more likely or not to sexually harass
+
+DV: rated the female experimenter on a number of dimensions including attractiveness
+
+High propensity were signifcantly more likely to report attraction if they were primed with power vs neutral.
+
+Low propensity had no signifanct differences based on primes.
+
+Compelling evidence that some men might be more motivated to sexually harass women based on power. 
+
+-
+Motivation to reduce uncertainty/threat -> preference for order/stability -> poltical conservatism
+
+The magnitude of difference in motivation to reduce uncertainty may be a big factor in political ideologies. 
+
+IV: conservative vs liveral
+
+IV: threatening vs neutral images
+
+DV: change in skin conductance
+
+Conservatives had highest change when showed threatening images. (apolitical threatening images)
+
+-
+IV: conservative vs liberal
+
+DV: mean eyeblink amplitude
+
+Conservatives have a more intense eyeblink reaction when harsh threatening noise.
+
+-
+Personalizing politics: How political ideology shapes autobiographical narratives
+
+Partipants: actively religuous adults living in Chicago area.
+
+Measures political ideology of each participant. Self placement on political ideolog scale. 
+
+- political orientation
+- right-wing authoritarianism (RWA): eg. obedience and respect for authority are more important
+- social dominance orientation (SDO): eg. some groups of people are simply inferior to other groups
+
+Participants completed life history interview, describing 12 scenes from their lives including high points, low poiints, turning points, etc
+
+Interviews coded for narrative themes, including
+
+- self regulation themes: protaganist strives to protect/preserve/control/regulate/manage the self 
+- self exploration themes: expanding and broadening the self
+
+Hypothesis: conservatives should be more likely to have more self regulation themes, liberals should be more likely to have themes of self exploration. Related to openness to experience (liberals) and conscientiousness (conservatives).
+
+Results were as expected. 
+
+Bush talked about overcoming alcoholism, Obama talked about finding himself.
+
+-
+Justifying the system: motivational roots and psychological consequences of rationalizing the status quo.
+
+People earning <5k a year shows highest support belief that differences in income are required to get people to work hard. People who are really disadvantaged go out of their way to rationalize/defend it. 
+
+-
+Jost's system justification theory
+
+- A fundamental motive to support, defend, and bolster status quo social arrangements
+- people are motivated to approve of social arrangments even if those arrangements were arrived at arbitrarily or unjustly
+- this motivation is activated when the system is threatened by either challenging its legitmacy or jeopardizing its security
+
+Uncertainty aversion, fear of death, need for social identification lead to system justification. People are more affected by these factors based on personal characteristics. 
+
+Hypothesis: the motivation to justify the system is activated by existential threats
+
+Measure of threat: number of terror warnings, terror alert level
+
+Gallup presidential approval tracking poll: do you approve of the way Bush is handling his job as president?
+
+Result: signifcant increase in Bush's approval ratings based on number of terror alerts. Each terror warning boosted his approval by ~2.75%
