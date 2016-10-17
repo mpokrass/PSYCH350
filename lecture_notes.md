@@ -618,4 +618,129 @@ Measure of threat: number of terror warnings, terror alert level
 
 Gallup presidential approval tracking poll: do you approve of the way Bush is handling his job as president?
 
-Result: signifcant increase in Bush's approval ratings based on number of terror alerts. Each terror warning boosted his approval by ~2.75%
+Result: signifcant increase in Bush's approval ratings based on number of terror alerts. Each terror warning boosted his approval by ~2.75%. Fear (existential) motivates people to be more supportive of the system. Think our leaders are better. 
+
+## Oct 17
+
+People don't protest very much, don't really hold people responsible. Sustained protest is abnormal. People are mostly disengaged. Inadequate explanation, because this does in fact occur sometimes, when the system is threatened. People are content with their system and think that it is for the best, at least better than the available alternatives. 
+
+Fundamental motivation to see our sitautions as fair, legitimate. Go to lengths to defend/justify the system. Fundamental needs to avoid uncertainty, existential moviations (fear of death), and need for social identification. Existential - even though I die, the system may live on - symbolically defeat death.
+
+Resistant to demands for change. Comes together to create a robust motivation to defent the system. Variability in motivation among people. Variability in underlying motives, some people are more averse to uncertainty than others. 
+
+-
+IV: participants write about the emotions they experince when thinking about their own mortality (existential threat) vs experiencing pain (control)
+
+DV: preference for Bush (incumbent) vs Kerry (challenger) 
+
+Result: pain prime - more Kerry (university students generally lean left)
+
+Mortality - lean towards Bush. Want to feel secure in the current system. He's also a conservative, tend to defend structure and security. It isn't clear if Kerry was holding office if the incumbent effect or ideological effect is stronger. 
+
+-
+Palliative and pacifying functions. 
+
+(These are predictions)
+
+Palliative (personal):
+
+- should be more likely to experience positive emotions, fewer negative emotions
+- lower feelings of guilt/shame for high status groups (if system is just, then status is fair)
+- for lower status group, less anger/frustation, getting just desserts
+- heigtened subjective well being
+- heightened motivation to puruse one's goals. Goal pursuit is risky, only do it if you think there is a likelihood of return, ie. if the system is fair. Particularly true of low status groups may especially need to perceive the system as fair to invest in long term goals. 
+
+Pacifying (social):
+
+- steretype high status groups as more deserving
+- sterotype low status groups as less deserving
+- resistance to social change (egalitarion redistribution)
+- derogation of system critics
+
+-
+Trends in US: as income inequality increases over time, happiness decreases, but this is more pronounced for liberals. Negative relationship much stronger for liberals than conservatives. Conservatives more likely to see the system as just, this buffers their happiness when there are problems in society. 
+
+-
+Study regarding motivation to pursue personal goals. Members of low status should be more motivated to pursue these goals to the extent they believe the system is just. 
+
+Relationships between socioeconomic status, fairness beliefs, and prioritization of work over leisure goals (how much you're willing to sacrifice for human capital). 
+
+Result: when an individual didn't see society as far, low status groups really don't invest in goals. (what's the point of society isn't fair). Somewhat higher investment in medium status, and even higher in high status.
+
+When groups perceive society as being fair: all of them invest more in work than leisure goals, but especially true in low status individuals. System justifying beliefs really bolster motivation in low status groups. Correlational study - not experimental. Could be a confounding factor.
+
+Did an experimental study: ethnic majority and minority groups.
+
+IV: partipants randomly assigned to read: 
+
+- passage suggesting that conditions in Canada are fair OR
+- control (something about toads)
+
+DV: measure of their willingness to invest time and effort in pursuing long-term career goals
+
+Prediction: minority Canadians motivation will be more contigent on information about societal fairness. 
+
+Result: 
+
+- Ethnic minority: reassurance in fairness boosted interest in investing in career goals
+- majority: high investment in goals irrespective of what condition they're in. (Group status gives you advantages regardless of fairness)
+
+-
+Social consequences
+
+Previous were personal consequences. 
+
+We tend to stereotype groups to explain their social roles, unequal distribution.
+
+Eg because men are overrepresented in agentic roles (Wage earners, management, leadership) and women are overrepresented in communal roles (child care, health care) that should motivate us to stereotype men as possesive more agentic traits (intelligence, self-control). We should stereotype women as possessing more communal traits (empathy). And this is generally what we observe.
+
+Eg. there are ethnic groups that are worse off, we stereotype them as being lazy or less intelligent. 
+
+-
+Northern italians (high status) vs southern italians (low status).
+
+Asked to attribute various traits to northern and southern italians.
+
+DV: ingroup favouritism. 
+
+DV: Also measured system justification beliefs. (1-9) 9 is more likely as seeing system as just and fair.
+
+Reuslt:
+
+- north: the more they see system as just and fair, more they see northern italians are better (escalating ingroup favouritism)
+- south: reverse pattern. The more they see society as just, the less they favour their group. Lower ingroup favouritism (even goes negative, outgroup > ingroup favouritism). "If the society is just, my group must just be worse than the higher class."
+
+-
+Experimental study in Isreal. Israelis of European descent, ashkenazi (high status) vs middle eastern, sephardic (low status)
+
+IV: endorsement for system justification. threat vs control
+
+- passage that threatens how just they feel the system is  (should motivate defense of the system, more extremes) OR
+- "despite some complaints, Israeli society is doing fine" (control)
+
+DV: ingroup favouritism
+
+Result:
+
+- no system threat: both groups show moderate ingroup favouritism
+- high system threat: ashkenazi jews show much higher ingroup favouritism, sephardic jews show much lower ingroup favouritism (higher outgroup than ingroup, negative value, undoing usual ingroup favouritism)
+
+-
+Examples of victim-blaming stereotypes in the aftermath of natural disasters
+
+When we perceive groups as losing status, we often attribute negative traits to them (victim blaming). 
+
+Eg. Hurricane Katrina during Bush's first term in office. Very poor disaster preparedness, some people were unable to evacuate. 
+
+Conservative media personalities blamed victims of Katrina. Said that the blame lies on the victim's shoulders because of poor preparedness. 
+
+Helps to explain why so many stereotypes of low status people are negative, so we can justify why they are of low status. 
+
+-
+This theory has a hard time explaining why some of the stereotypes are favourable. Eg. poor people are often stereotpyed as happier, more moral, and more sociable than rich people. How does system justification theory explain this?
+
+Hypothesis: we gain system justifying effects by stereotyping low status individuals positively in some domains, if these domains are unrelated to success.
+
+Doing so provides us a rationalization for that unequal distribution. Not hard work, intelligence, skills, motivation. These we attribute to high status groups. Not all domains are agentic.
+
+In those (non agentic) domains, we give benefits to low status groups. Stereotype successful groups negatively in traits that are causally unrelated to success. Causes an overall balance in the society, low status people are earning something from their low status. 
