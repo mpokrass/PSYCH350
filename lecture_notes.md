@@ -744,3 +744,113 @@ Hypothesis: we gain system justifying effects by stereotyping low status individ
 Doing so provides us a rationalization for that unequal distribution. Not hard work, intelligence, skills, motivation. These we attribute to high status groups. Not all domains are agentic.
 
 In those (non agentic) domains, we give benefits to low status groups. Stereotype successful groups negatively in traits that are causally unrelated to success. Causes an overall balance in the society, low status people are earning something from their low status. 
+
+## Oct 19
+
+In order to maintain our belief in the system as fair and just, we stereotype successful people having traits related to success - rationalizes their status. Conversely, stereotype unsuccessful people as having other unrelated traits (happiness, sociable) - rationalizes as a fair system because they have other traits. 
+
+Researches activates the system justification motive - exposed participants to information that threatened the system, then compared thier reactions with control group (no threats). 
+
+Participants asked to rate powerful people on traits that were casually related to success, and causally irrelevant to success (eg. happiness). 
+
+In low system threat, tendency to attribute intelligence to high power people, and not happiness. When you activate high system threat, increase in attribution of intelligence, decrease in attribution of happiness. Positive and negative stereotypes have complementary effects. 
+
+Social consequences - reducing the perceived need to protest inequities. 
+
+-
+Study at protest rally in Athens; rallying against auserity legislation being considered by the gov't which included proposal to raise retirement age.
+
+Participants exposed to a passage that either reinforced or contradicted stereotype that poor people happy. 
+
+DV: 
+
+- anger at the system
+- support for disruptive protest
+
+Result: after system justification beliefs, believe that poor are happy much more strongly, lowers their anger at the system. 
+
+-
+Negative evaluations of system critics
+
+Participants reviewed a job interview where a European-American interview assessed an African-American interviewee, and decided to not hire. Also had racist notes for participant to read. 
+
+Canditate attributed not being hired to 
+
+- racism
+- his own inadequate interview skills
+- the quality of the competition
+
+Participants got to see this (this was the IV). 
+
+DV: "troublemaker" ratings of the job candidate. 
+
+Result: in condition 1, rated as more of a troublemaker (because going against the system), even though his complaint was completely true. Less "troublemaker" ratings in conditions 2 and 3. 
+
+-
+Legitimizing ideologies (the example of benevolent sexism). 
+
+When there is a persistent pattern of inequality between groups, we see a stereotype of values that justify the unequal status. This is called a legitimizing ideology. 
+
+Eg. american dream, free market
+
+-
+Persistent gender inequalities
+
+Women are underrepresented in positions of social power and authority and are often restricted from participating in activities that entail taking risks to achieve personal growth and status rewards.
+
+Women tend to be overrepresented in caregiving work. 
+
+-
+Ambivalent Sexist ideology
+
+The prevailing gender ideology in most cultures contains a mixtyre of benevolent sexist (BS) and hostile sexist (HS) attitudes
+
+- BS is a patronizing ideology, stereotypes women as caring but childlike/incompetent. Idealizes women who conform to conventional feminine roles within the gender hierarchy, and offers protection and support for these women
+- HS demonizes women who challenge traditional gender roles and threaten male privilege
+
+Across many cultures, endorsement in BS tends to be positively correlated with endorsement of HS, and both forms of exism tend to be more strongly endorsed when gender equality is lower
+
+Men endorse HS more than women. Women are more accepting of BS, sometimes endorse it as strongly (or more strongly) than men. 
+
+BS functions to legitimize gender inequality. Might allow women to see the roles as fair; "complementary but equal". 
+
+As the demand to justify social conditions in terms of equality has become more of a focus, the need to perceive unequal systems as having some kind of propensity or benefit to the low status person might increase.
+
+Placing women on a pedestal may even mislead people to construe a system of male privelege as a system of female privelege. (if you only look at 1 element of the system)
+
+Study
+
+Participants read scale items ostensibly to evaluate their clairty for pilot testing purposes. 
+
+IV: info in the scales
+
+- benevolent sexist ideas (eg. purity)
+- control (positive to women but not BS, eg. resourcefulness)
+
+DV: measure of system justification. Eg. "everyone has a fair shot at wealth and happiness". Not gender specific in context. "Is the system you're in a fair one?"
+
+Result: 
+
+- control: men tend to see the system as fairer than women
+- BS: women tend to see the system as fairer. Priming the BS ideas does away with grievances against the system.
+
+-
+German female students read statements ostensibly as part of an experiment on context-dependent memory
+
+IV: Content of statements 
+
+- BS prime (eg. men are incpmplete without women)
+- HS prime (eg. when women have to work together, they often get into cat fights)
+- control (eg. women are healthier than men). Positive about women but not connected to BS
+
+DV: had opportunity to either read magazines or read literature about campaigns on campus (equity in gender equality campaign vs unrealted to gender)
+
+DV: PErcentage of students who signed the petition, nubmer of flyers they took home. (all participants female)
+
+Results:
+
+- BS: significantly less motivated to support 
+- HS: significantly more likely to support
+- control: in the middle
+
+Same pattern emerged in flyers. 
