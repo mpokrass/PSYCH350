@@ -966,3 +966,72 @@ Result:
 - low dependency: regardlesss of condition, favourable views of women in gov't
 
 Rationalize inequity in system dependency and low women condition (0-100)
+
+## Review Session
+
+Preceeding increase in terror threats saw subsequent increase in Bush ratings. He represented the current system, also is a conservative. Represents an ideology that aligns with safety and defense. 
+
+-
+Pro revolution statement attributed either to Jefferson or Lenin during the height of the cold war. Jefferson representative of the political revolution founding America. Americans positively view revolution in Jefferson's view. Revolution in terms of the Russian revolution, whom Lenin was the leader - is much more threatening to Americans. Replacement of a capitalist system with a radical system. The same sentence has different meaning depending on whom it is attributed to. 
+
+Asked people what they thought the statement meant. Participants' attribution of statements varied based on author.
+
+Sometimes when there is a difference of opinion on one idea, it may be because people interpret the idea differently, even if it is the same.
+
+-
+Fluency heuristic. The ease with which you call upon examples. We can use the meta-information on how hard it was, to judge how true/plausible/familiar/correct is the statement. We might perceive something easier to understand as more true as things that are more difficult to understand. Correctness is a difficult judgement to make. Making an easier answer takes less cognitive load. 
+
+Feeling heuristic uses how I'm feeling right now to make other judgements - eg. how satisfied am I with my life/the direction this country is going. 
+
+-
+Implicit nationalistm - approach vs avoidance. Nations flag skewed people more towards the center. Become imbued with ideology, centrel tendencies of society. Make people embrace more central values. Right -> center, left -> center. 
+
+Approach to center vs avoidance of the extreme. 
+
+Priming with flag made people more racist. System justification theory in play as well. Priming flag -> defence of a nation -> racism towards black people, b/c they must be worse to justify our system. 
+
+-
+Two different ideas about how we assess the truth status of some concept or idea. Descartes had an idealized view of the mind. If we were designing it from scratch, we'd want it to assess ideas in an angostic way. First understand it, then commit to a truth value. Don't initially consider the truth value. Reserving judgement about the truth value unitl you've had time to assess its merits. First understand propositions or ideas that we are exposed to. Then tag it as true or false. Default representation is agnostic, neither true nor false. 
+
+Spinosa had a different, more realistic view. Part of the process of understanding something involves initially accepting it as true. In order to understand it we should pull it in and accept it as true, and then evaluate it. Then, if we find flaws, we tag it as false. Default tag is true. If the default understanding of a belief is true, if we disconnect the false tag, we will see it as true. Naive credulity/tendency to accept what we're told as if it were true.
+
+-
+Control vs balance study
+
+Basic idea is that when there's disagreement - two sides to an argument, news stories that cover tend to have a spokesperson from each side. Give equal coverage to both sides (even on issues like climate change, vaccines where the overwhelming consensus is in one direction). 
+
+To test this, used an archival source of actual opinions on various issues. Some issues were skewed to one side, others had a more equal split. 
+
+Either gave participants just the percentage breakdown of economists, or that and one representative argument on each side.
+
+DV: asked how split economists are, is there enough consensus to inform policy or are they too split?
+
+Result: poorer understanding of the split when there was an opinion on each side exposed. 
+
+-
+Trump article
+
+Big 5 traits
+
+Presidents usually higher agreableness, except Nixon. 
+
+Circumstantial. Collection of what the field has learned about traits, and what we can guess as to Trump's traits and thus how he would lead. 
+
+Schemas (social cognitive side), goals, pattern, style. Deal-making schema that Trump has. 
+
+Trump's life story, how he sees it. 
+
+What does this tell us about the way McAdams might use psychology to perform a case study. More from the lens of methodology. 
+
+-
+Paradox of voting
+
+Voting is not effective from a cost benefit analysis (self interest), unless it gives value to self, social expectation/implications. Probability of my act of voting affecting something is really low. Enjoy the shared benefits regardless of whether you voted or not. 
+
+-
+Message telling people to vote, showing whether they had voted, previous track record, etc. Extrinsic motivation to appear as a more civically engaged citizen. Adding cost to not voting. 
+
+-
+Palliative effects are about how it influence's a person's emotions/feelings about themselves/society. Inequity aversion makes us feel negative emotions when we become aware of inequities or injustices. Reduces anger/resentment from disadvantage, also makes others feel better about their higher status. Palliative - helps resolve negative feelings regarding inequality. 
+
+Passive effects - motivational consequences. When there's inequality, because of IA we should be motivated to reduce inequality. One of the key predictions of equity theory. Leads us to believe that one group is more deserving than another. Passive - reduces our motivation to take some action to correct the inequity. Convinces us that it's not inequity. 
