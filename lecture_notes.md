@@ -854,3 +854,115 @@ Results:
 - control: in the middle
 
 Same pattern emerged in flyers. 
+
+## Oct 21
+
+Midterm: 10-12 MC, a few short answer
+
+The dominant ideologies in a culture should rationalize system inequities. "Inequities are rational, inevitibly, even good"
+
+Some patterns of inequality that are general - sexism. Negative depictions of women who violate gender norms (hostile sexism). Benovelent sexism works to encourage women to embrace their oppression. Lowers dissatisfaction with gender inequalities in society, lowers motivation to seek change. 
+
+Campaign to recruit female professors to more senior positions on campus. Benevolent sexism prime - much less motivated to lend their support of furthering gender equality on campus. More likely to sign a control peition. Hostile sexism prime - most likely to sign equality petition. 
+
+Same pattern when more concrete action - putting up flyers. HS > control > BS. 
+
+-
+BS ideology and iternalizing the male gaze
+
+BS upholds certain women, a certain idealization, but from a masculine perspective. Aim to maintain high value in men's eyes. 
+
+BS reminds women of their subordinate status to men. Self objectification focuses women's attention on apearance - not action - as an effective form of social currency. 
+
+-
+Manipulation of ideology priming
+
+Pariticpants read scale items ostensibly to evaluate their clarity for pilot testing purposes
+
+Content of scale items were varied to manipule the salience of BS ideology
+
+IV:
+
+- BS prime (eg. purity)
+- HS prime (eg. women are too easily offended)
+- control (positive idea of women that's not BS. eg. resourcefulness)
+
+DV: measures of internalization of male gaze
+
+Test self objectification (extend to which they considered appearance based qualities as more important than 5 general qualities). 
+
+Also measured body shame ("When i'm not the size I think I should be, I feel ashamed")
+
+Measured appearance management intentions. Thought listing task reflecting on plans/intentions for the rest of the week, coded for dieting, tanning, etc. 
+
+Women most self objectifying when BS prime.
+
+Women more self objectifying in general. 
+
+Most body shame in BS prime in women. More appearance management for women in BS prime. 
+
+-
+Implications for social activism
+
+Prediction: women's self objectiication should reduce their motivation to support gender equality
+
+Manipulated the extent to which the women had self objectification thoughts. Had women consider situations in which they were objectified, or control, wrote about an unrelated domain. 
+
+DV: 20 statements test, asked to answer 20 times in a row give a self description. "I am _____". Can code the content of what they fill in to see most relevant traits to self. Coded how much these were qualities of appearance. 
+
+Measure: Reported intentions related to supporting gender equality issues. Measure of social activist motivation. 
+
+Result: More likely to list qualities of body when filling in I am ___ statements. Also rated gender system as more fair and just when had reflected on objectified condition.
+
+Significantly lower in their intention to participate in social activisim in the objectification condition. 
+
+-
+Mediation model: endorsement of system justification mediates the relationship between women's self objectification and reduced social activism. Vunerability to sexual objectification leading a reduction of women's role in social activism. 
+
+-
+Accepting the status quo: the motivational basis of political complacency. We are motivated to see the status quo as fair and just and rational. Tendency for us to see that the way things are is close to the ideal. 
+
+Believing that the way things are is the way things ought to be. 
+
+Conditions:
+
+- status quo policy condition. Said that questioning subjects under stress was consistent with the status quo. Read about interrogation methods as if they were part of longstanding practices
+- novel policy condition. referred to the same practices as if they were something new
+
+DV: support for the practices
+
+Much more support when status quo rather than new. Framing something as being part of the status quo seems to lend it credibility. Why is this?
+
+- system escapability (i'm stuck in the system)
+- system dependency
+
+"All men, sooner or later, accomodate themselves to whatever becomes their circumstance"
+
+Study:
+
+IV: manipulated perceived escabability of the system. 
+
+- low escapability: had participants read a passage showing Canada as a fixed system. "people wanting to leave Canada have a hard time doing so"
+- high escapability: "increasingly easy for Canadians to migrate elsewhere"
+
+- Status quo info. Amount of people on council that are high income. 
+
+Measured status quo support measure. 
+
+Result: Support of status quo higher for low escapability condition. More system critical when high escapability. 
+
+-
+Dependency on the system increases people's motivation to justify the system. 
+
+IV: system dependency: federal policies significantly affect people's lives vs not
+
+IV: status quo manipulation. Women 20% of Canadian MPs. Manipulated how this was portrayed. Scale from 0-100 vs scale from 0-25. 
+
+DV: Measure of attitudes towards women in government eg. "to what extent do you believe that women should be in politics?"
+
+Result: 
+
+- high dependency: less support for women in gov't when status quo condition, more support when 0-25 scale.
+- low dependency: regardlesss of condition, favourable views of women in gov't
+
+Rationalize inequity in system dependency and low women condition (0-100)
