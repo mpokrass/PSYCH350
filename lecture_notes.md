@@ -1035,3 +1035,117 @@ Message telling people to vote, showing whether they had voted, previous track r
 Palliative effects are about how it influence's a person's emotions/feelings about themselves/society. Inequity aversion makes us feel negative emotions when we become aware of inequities or injustices. Reduces anger/resentment from disadvantage, also makes others feel better about their higher status. Palliative - helps resolve negative feelings regarding inequality. 
 
 Passive effects - motivational consequences. When there's inequality, because of IA we should be motivated to reduce inequality. One of the key predictions of equity theory. Leads us to believe that one group is more deserving than another. Passive - reduces our motivation to take some action to correct the inequity. Convinces us that it's not inequity. 
+
+## Oct 26
+
+System dependency manipulation: high dependency on Canadian gov't vs not.
+
+Status quo manipulation: made women's pop in gov't appear either large or small. (0-100 scale vs 0-20)
+
+When perceived system dependency is high: support whatever they believe is the status quo. 
+
+How can we motivate people to be open to reform in the system? How can we demonstrate that change is possible?
+
+Vignette to read about guy who attempted to change the system (at OSU). Well positioned to seek change and did a lot of work to mobilize a demand to change. As a result, university drastically changed frosh program. Message that system is reformable. Says "change is possible"
+
+In other condition told about the same guy, same postion, same grievances, tries to mobilize students but his efforts failed. Says "change is hard here but I still think it's possible"
+
+Asked participants how much they thought the system was changeable. In high changeability condition rated system as more changeable. (duh)
+
+Did that make students more critical of existing system? Yes it did, 45% vs 28% chose to look at a report on OSU system's weaknesses, or report on strengths. Adopted a more system-critical framework.
+
+Thus suggesting that change is possible. 
+
+-
+Suggest that change is inevitible. People rationalize not the way things are, but the way they are about to be. 
+
+Eg. Trudeau explaining his decision to appoint the country's first gender balanced cabinet. "Because it's 2015". There's a tide of change, that's the way things used to be. Not the way things will be done going forward. Simple but effective way of justifying it as inevitible. 
+
+-
+Told that expert group of political analysts. 
+
+IV: strong likelihood of victory for one vs other vs ambiguous
+
+- 51% al gore vs 43% bush
+- 49% gore to 45% bush
+- tie at 47%
+- 49% bush to gore
+- 51% bush to 43% gore
+
+also studied republican vs democrat
+
+DV: bush favourability ratings
+
+result: favourability ratings of bush lowest in condition 1 (both democrats and republicans)
+
+Democrats and repbuclicans more favourable of bush when in condition 5
+
+Same results for gore
+
+Inevitibility of result increases favourability. 
+
+-
+Convincing people that reform is necessary to protect the system: the system preservation frame. 
+
+People generally think that defence of the environment is against the defence of the systems. If you can link defence of environment to perserving the system, can boost support.
+
+All participants read a message that they are highly dependent on system.
+
+Measured how strongly the participants were motivated to defend the system (system justification scale). 
+
+IV: whether or not environmental reform was framed as preserving the system.
+
+- yes: being pro environmental allows us to conserve the american way of life, it is patriotic
+- control: same message but without system preservation part (above)
+
+DV: measured attitudes towards environmental defence. Personal attitudes and behaviours. How many would sign pro environmental petition. 
+
+Result: more system justification -> low environmental concern, with conrol
+
+With new message (patriotism): high system justification -> high support for enivornmental reform.
+
+Can take what is usually an impediment to reform (system justification) and leverage it to become an agent for reform.
+
+-
+The psychology of inequality
+
+There are many factors that shape how much power a person experiences in their life.
+
+- individual qualities: dominant seeking or power oriented, or body size (traditional systems/primates)
+- ingroup variables: status you have within group
+- between-group variables: social class, gender, ethnicity
+
+These shape social power: resources/freedom gives high power. If less control over resources, more contraint over behaviour -> low power.
+
+Psychological consequences: high power induces a psychology of approach, BAS. Strongly attended to rewards, highly reward seeking. Leads to egocentrism, self focused cognition. Disinhibited behaviour. Act as you feel, according to impulses and ignore usual norms and social constraints. 
+
+Low power induces a threat motivated psychological system. Attention oriented towards threats and risks in environment. More externally focused, on others and their emotions/perceptions/attitudes. Context sensitive, restrained behaviour. Going to punished if don't conform, must attend to social norms more. 
+
+This is a theoretical model. 
+
+High power has a disinhibiting effect, then high power people should be more likely to violate social norms and moral rules.
+
+-
+Test of this hypothesis
+
+Participants' subjective social class rank was experimentally manipulated. Have them compare themselves to either the highest ranked people or lowest ranked people in economic level of society. Comparing to high is a negative evaluation, makes you feel less powerful and vice versa.
+
+Norm violation measure: participants left in a waiting area for the next part of the study. A jar of candies was present, told that they were for little children participating in a study. Measured how many of the candies the participants took. 
+
+Result: High status people took signiificantly more candy than in low status condition. 
+
+-
+Field observation study looking at driver behaviour.
+
+Cars are socioeconomic status indicators. 
+
+Observed driver behaviour at a busy intersection, done in SF. 
+Pedestrian confederate waiting at crosswalk, has right of way.
+
+Coders positioned near crosswalk to make observations (out of sight):
+
+- vehicle status: make, age, appearance
+- driver characteristics: age, sex
+- rule breaking: do the driver's yield right of way?
+
+Result: Positive correlation between car status and rule breaking.
