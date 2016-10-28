@@ -1149,3 +1149,90 @@ Coders positioned near crosswalk to make observations (out of sight):
 - rule breaking: do the driver's yield right of way?
 
 Result: Positive correlation between car status and rule breaking.
+
+## Oct 28
+
+High power people should be relatively less attuned to other people's emotions, beliefs, feelings. Lower power people must attend more to social contexts. 
+
+-
+Study
+
+Power manipulation: recalled either low power or high power incident. 
+
+Study of measure of egocentricm. Asked people to draw an E on their forehead. Either facing out or facing in. Egocentric people drew at their perspective, backwards to an observer. Coders coded how people wrote the Es. 
+
+High power people drew egocentric E more than low power people. 
+
+-
+Tested emotional empathy
+
+Manipulated subjective social class. Imagine ladder depecting people at different rungs of success in society, compare to highest rung (low status) or lowest rung (high status)
+
+Empathy test - eye test, tell emitions form eyes. 
+
+Upper status accuracy was lower than lower status. 
+
+If you are made to feel more powerful - harder time understanding other people's emotions. 
+
+-
+Low people rients people to attend to social context, then they should show more compassion. 
+
+Study charity giving. 
+
+If income under 25k donate on average 4.2%, whereas high income (over 100k) donate on average 2.7%. correlational study
+
+Also experimental study, engage with confederate on tasks. Real person had to complete a task that would either prime with compassion (video on poverty) or control (2 men talking in courtroom). 
+
+Then confederate arrives, apologizes for being late, is distressed. Then told why. Told to assign tasks to confederate/self. Can assign her less tasks and more to yourself. Helpint measure = total number of minutes of task that the participants assigned to themselves. 
+
+Neutral condition - low power gave more (low income) than high power (income). 
+
+Compassion condition: equalizied giving among groups. 
+
+Low power people gave the same amount regardles. 
+
+It's important for us to ensure that high power people have moral values. 
+
+-
+the psychology of social movements
+
+Key features of social movements:
+
+- either challenge or defent status quo system
+- collective rather than individual actions
+- act outside official institiutional channels (but could still be supporting the traditional institutions of the system)
+- relatively organized
+- continuity of action (not just one day/event)
+
+-
+Classical social psychological accounts
+
+Eg. frustration-aggression model
+
+Structural strain -> disruptive psychological state -> social action
+
+Strain: anything that may be a pressure that leads some people to experience less satisifaction relative to others. Eg. income inequality, underemployment
+
+Disruptive psychological state: frustration
+
+Social action: eg aggression against system, resolves tension
+
+-
+Archival analysis of lynching in the American south (extra-judicial killings, where civilians organize together to commit violence against other people in their community)
+
+Would rate of lynchings tend to go up in years when the country was facing economic decline?
+
+Did a time series analysis. Consistent with the hypothesis, more collective action when higher structural strain. 
+
+-
+"I'm mad as hell and I'm not going to take it anymore"
+
+Built up tension/frustration vent it through emotional expression. When many people share this, they may endorse a collective expression of anger against the system. 
+
+Sustained social movements are relatively rare. So is there little strain? are people complacent?
+
+There is a difficulty in translating discontent to a movement. Maybe the venting can be expressed in different ways, eg joining cults, rather than political movements. 
+
+Inaccurate and unflatttering portrayal of social activits as psychologically frustrated, alienated, or distrubed.
+
+In fact they may be more socially attuned. 
