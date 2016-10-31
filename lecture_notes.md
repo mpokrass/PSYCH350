@@ -1236,3 +1236,62 @@ There is a difficulty in translating discontent to a movement. Maybe the venting
 Inaccurate and unflatttering portrayal of social activits as psychologically frustrated, alienated, or distrubed.
 
 In fact they may be more socially attuned. 
+
+## Oct 31
+
+The mere existence of strain in the system does not necessarily cause social activisim.
+
+Americans greatly underestimate the magnitude of wealth inequality. Recruited a sample of participants - representative of population as a whole, surveyed to ask them what the distribution of wealth was, and what they thought it should be. Compared to actual distribution, heavier concentration of wealth in upper tax bracket than americans thought. Residual potential for them to perceive some need for change (estimated -> ideal) and moreover when you break it down, there is widespread consensus among many varying groups. 
+
+Two ways to explain the lack of social activism:
+
+1. Americans underestimate how bad the situation is (but not sufficient to explain because still a gap between perceived and ideal)
+2. Mere perception of inequality is not enough, because how you explain/interpret the problem frames how we handle it. If it's framed as problematic, more likely to demand more action.
+
+-
+Social psychological accoutnts of construction of grievances
+
+Actual system strain or unjust conditions are insufficient to produce grievances.
+
+Actual conditions need to be subjectively interpreted as problematic to be experienced as grievances.
+
+Much of the work in social activism involves framing the grievances as problematic.
+
+There are different ways of framing grievances:
+
+- social relative deprivation (upwards comparisons to higher status groups)
+- temporal relative deprivation (upwards cmparisons to present/past conditions)
+- distributive justice grievances (inequity in resource allocation)
+- procedural justice grievances (construing the system as unresponsive to one's needs or perspectives)
+
+-
+Framing and "cognitive liberation"
+
+The emergence of a protest movement entails a transformation both of consciousness and behaviour. 
+
+1. Diagnostic framing: identifying conditions as problematic and attributing problems to specific causes. Answers the questions: "what's wrong? Who's to blame?" Eg. Trump blaming Muslims
+2. Prognostic framing: outlining an agenda for how the identified problem can be remedied (answers the question: What is to be done?")
+3. Motivational framing - mobilizing frame supporters into action and sustaining their motivation in the face of obstacles (Answers the question "why me?"). Eg sucicide bombers - "the ruling to kill Americans and their allies is an individual duty for every muslim who can do it"
+
+-
+Loss aversion (eg. loss if you don't take action) has a stronger affect than gaining something positive. 
+
+There is an asymmetry in how we respond to gains vs losses. A loss has greater psychic impact than a foregone gain of the same magnitude. 
+
+Imagine there is a new tax policy that the gov't is implementing, more support for families with children. Redirect some resources to families with children. Frame in two ways:
+
+1. Childless surchage (loss) frame: no children pays a surcharge of $X
+2. Child bonus (gain) frame: gets bonus of $X 
+
+More unfairness rating when cost to non-parents, fine when bonus to parents (neutral). 
+
+-
+Most easy to mobilize is the NIMBY social movement (not in my backyard, eg. wind farm near residential community, or waste disposal center, or homeless shelters). Emphasized threatened losses and disruptions to the community. "Everyone thought we couldn't fight the salvation army because it is good. But you can make anything look bad."
+
+Salvation army's counter framing: redirected attention away from homeless men to homeless women and children who would be served by the shelter.
+
+Goals of progressive movements often involve threatening to disrupt the quotidian. Also protest actions themselves often directly disrupt routines in order to draw attention to social problems (eg. sit ins, boycotts)
+
+Paradox: disrupting the status quo evoked epistemic and existential threats that usually motivate people to defent the system. Thus progressive movements are inclined to provoke a reactionary public backlash. 
+
+For radicals, need to frame protest to avoid provoking reactionary backlash. Eg. Toronto G20 protests. 
