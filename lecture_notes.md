@@ -1295,3 +1295,81 @@ Goals of progressive movements often involve threatening to disrupt the quotidia
 Paradox: disrupting the status quo evoked epistemic and existential threats that usually motivate people to defent the system. Thus progressive movements are inclined to provoke a reactionary public backlash. 
 
 For radicals, need to frame protest to avoid provoking reactionary backlash. Eg. Toronto G20 protests. 
+
+## Nov 2
+
+Protest actions are inherently disruptive, causes a paradox: disrupting the status quo makes meople motivated to maintain the status quo.
+
+G20 in toronto: movement/actisim against it, issues related to globalization, weath inequality, environnmental issues. Lots of police on streets to control the activism. Peaceful protests for the most part (and initially) but some more radicallized elements (black bloc). Broke away from the main march and engaged in vandalism, overturned police cars, set cars on fire. Police response to this was aggressive crackdown. 1000 people arrested during protests. Media commentary about disruption of order rather than ideological/political goes. Problem for activist movements that use similar tactics. Media critics don't focus on substantive political goals and more on social disruption and need for law and order.
+
+Protests have this risk for inspiring backlash against their goals and rally around the system. 
+
+-
+Experiment.
+
+Measured right wing authoritarianism (RWA) before and after story about imagined event in future Canada. Read 1/3 scenarios.
+
+RWA measures submission to authorities, etc. 
+
+Control, violent left-wing protests (First nation activist, unemployed labourers), violent right-wing protests (suppress leftists, overthrow Canadian gov't)
+
+Exposure to any type of protest makes people more support of RWA attidues. (Even if right wing protest, but especially for left wing protests)
+
+How can protesters avoid this?
+
+Example: SCLC framing tactics:
+
+Garner sympathy from media through culturally resonant framing:
+
+- unique blend of Christian theology, democratic theory, and Gandhian philosophy of nonviolence
+- staging highly symbolic confrontations between good and evil by goading racist Southern officials to respond with ugly acts of repression
+  - failed in Ablany, GA. Choose Birmingham, Alabama next to campaign for desegregation. The commisioner of public safety could be countet on to respond violently. Police response got ugly, lost favour with the public. Protestors also recruited children, images of police confronting and physically coercing children did not look good. 
+
+Gallup polling showed that the protests worked. 
+
+Effective when protestors appear non violent, and system appears violent and coercive. 
+
+-
+Repeated previous study, where authorities were violent in response.  (violent left wing, nonviolent left wing, nonviolent left wing with gov't repression).
+
+condition 1 -> more opposition
+
+condition 2 -> also more RWA
+
+condition 3 -> RWA blunted. 
+
+Thus social movements need to be very disciplined to be effective. 
+
+-
+Channel factor: a stimulus or a response pathway that serves to elicit or sustain behavioural intentions with particular intensity and stability.
+
+Need people to feel individually responsible. 
+
+-
+Social network ties as channel factors in high-cost activism. 
+
+Organized by SNCC to recruit college students to register black voters.
+
+961 applications to volounteer, 720 actually participated. 
+
+Studied application files of participants and no-shows to determine what factors differentiated these groups. 
+
+Coded personal determinants in essays.
+
+Situational channeling factors (measured differences in social ties)
+
+-
+Movement called freedom summer. 
+
+White and black people travelling in car together (illegal at the time). Stopped by police/someone, kidnapped. Were missing for many days, investigation to find out what happened that involved FBI. Eventually found brutally murdered, were lynched. At the start of the campaign, high costs visible to participants. 
+
+-
+Looked for internal factors and political attitudes. 
+
+Both participants and no-shows were about the same in terms of personal attitudes (left leaning values).
+
+In personal essays, both participants and no-shows had similar self-oriented motives. Paritipants however had more other-oriented motives. 
+
+Participant essays were also twice as long as no shows. May have been strength of motivation differences.
+
+Situational factors had more effect. Participants more than twice as likely to have tie with the same protest movement. May help to overcome fear (because the campaign was scary, possible consequence). Having someone else you trust may be a security blanket. Also fear of embarassment  of backing out.
