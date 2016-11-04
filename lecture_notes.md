@@ -1373,3 +1373,57 @@ In personal essays, both participants and no-shows had similar self-oriented mot
 Participant essays were also twice as long as no shows. May have been strength of motivation differences.
 
 Situational factors had more effect. Participants more than twice as likely to have tie with the same protest movement. May help to overcome fear (because the campaign was scary, possible consequence). Having someone else you trust may be a security blanket. Also fear of embarassment  of backing out.
+
+## Nov 4
+
+Survey to decide what's happeneing in people's lives after the protests (freedom summer). Measure before and after freedom summer.
+
+After, the participants leaned left way more than the no shows. Remained more inolved in activist causes. People who went to freedom summer were radicalized. 
+
+Sustained motivation that made them increasingly more divergent from the now show group. Identified less as "leftist". 
+
+May be reducing cognitive dissonance by saying that this is more a part of their life to rationalize the costs of the efforts. Ideologically bolstered their committment to the cause. Might be more polarized because of exposure to like minded people. Might also been have more predisposed initially to social activism (though not measured initially). May have become part of an ingroup.
+
+-
+Emotional dynamics of social movements
+
+Case study of emotion reappraisal work in social movements: AIDS activism
+
+Very effective social activist movement. Emphasized patients rights, among other things. 
+
+Early in the AIDS epidemic (1980s) dominant emotions included a mix of 
+
+- negative emotions: fear, sadness about loss, anxiety about hieghtening anti gay strigma, shame about sexual practices (were being vilified)
+- positive emotions: pride in gay communtity's responsible actions in providing services and care to AIDS victims
+- minimal expression of anger about the system's response to AIDS crisis
+
+Researcher coded for these.
+
+in 1986, supreme court chose to uphold a law in Georgia that criminalized gay sex. A person was arrested for having gay sex in his own home. Challenged the arrest on constitutional grounds, supreme court upheld the law. In their support, linked homosexuality with beastility, other non normative sex acts, justified their ruling. The ruling had nothing explicitly to do with AIDS, but provided a moral shock to the gay community. Made some people feel that they had nothing left to lose. 
+
+Gays were angry with the system, more expressions of anger, antagonism with the community, coming from the other side. 
+
+ACT UP started advocating for AIDS-related activism. Had to stimulate emotional reappraisal within the community. Cultivated a sense of anger with the system, worked to transform feelings of sadness/shame to more policially useful feelings of anger and righteous indignation. 
+
+- previously: AIDS death attributed to either personal deviance which evoked feelings of shame or a deadly virus that evoked fear or sadness
+- ACT UP shifted attributions for AIDS deaths to gov't neglect which evokes anger and outrage
+
+Some examples:
+
+"the gov't has blood on its hands. one aids death every half hour"
+
+In some protests played dead, gravestones, saying they were killed by the FDA, the gov't, etc.
+
+Reframed to transform sadness into anger.
+
+AIDS memorial quilt that grew out of the movement. Add a panel for each victim, guickly grew. 
+
+Quilt initially focused just on grief, but ACT UP transformed it to anger:
+
+"Show your anger to the people who helped make the quilt possible: our government"
+
+Reframe for more politically useful emotion: anger.
+
+Quilt makes the "death beautiful", want to make the deaths ugly again for political activism. Showed the reality of it, spread ashes on the white house lawn. Mobilize community of grief to a stance of anger. (political funeral)
+
+Also transform shame into shaming of the system. Shamed president and the gov't that he represented. Other people were also similarly shamed. 
