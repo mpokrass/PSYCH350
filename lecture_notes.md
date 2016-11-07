@@ -1427,3 +1427,84 @@ Reframe for more politically useful emotion: anger.
 Quilt makes the "death beautiful", want to make the deaths ugly again for political activism. Showed the reality of it, spread ashes on the white house lawn. Mobilize community of grief to a stance of anger. (political funeral)
 
 Also transform shame into shaming of the system. Shamed president and the gov't that he represented. Other people were also similarly shamed. 
+
+## Nov 7
+
+Themes of authoritarianism:
+
+Seeing the leader as the embodiment of the will of the masses. "I alone can fix this"
+
+Emphasis on law and order.
+
+Coercive assertion of power from a strong leader. 
+
+Survey of americans asked about models of leadership. Would it be a good/bad idea "to have a strong leader who does not have to bother with congress and elections?"
+
+College graduates said it was a bad idea much more. Much more of non college graduates thought it was a good idea. 
+
+Most of Trump's supporters are less educated voters. 
+
+It's not just Trump. Authoritarian models are getting more traction. Eg Putin, also western european leaders. Also Phillippines. Voters are more drawn to authoritarian models of politics. 
+
+Before republican primaries conducted national survey of likely republican voters to see their preferences, and what were the predictors. Eg: what do you think are important traits for children to have?
+
+Respuctful, obedient, well-behaved, well-mannered preferences correlated with authoritarian values. (vs curiousity and independence)
+
+The more people endorsed RWA values, the more they preferred Trump.
+
+After WW2, there was an interest in trying to understand why people supported RWA attitudes. A lot of the thoughts at the time were influenced by Freud.
+
+Proposed a model that applied psychodynamic thoery to a propensity to joining facsist movements.
+
+Say rooted in pent up frustration and aggressive tendencies. Growing up in a home when punished and contorl exerted upon you. Fosters a desire to aggress against the control. However we usally repress these emotions. According to Freud, it builds up and will eventually need some kind of outlet. The way we express and vent is through alternative channels. People with aggressive tendencies are pulled towards movements with cruel policies towards minority groups. Prejudice to just about all minority groups. Called this generalized ethno-centrism. Intolerence of ambiguity. Pattern of lashing out against weaker groups as a result of family dynamics. 
+
+Willing to give a lot of power to strong leaders like Trump.
+
+Study authoritarian aggression surveys (eg. smash perversion eating away at our moral fibers), also conventionalism. 
+
+30 items tapping into all dynamics. Reliable and valid measure for RWA. RWA scale highly validated. 
+
+To measure: had students imagine a situation where gov't told them that vigalinte-ism was okay. Eg. cracking down on radicals in society. 
+
+Correlations with RWA range from .42 and .61. Not just in the context of radicals, other groups as well, such as homosexuals, abortion providers, religious cults, and even other RWAs (paradoxical).
+
+Eg. trump told his supporters to beat up protestors in their midst.
+
+-
+Recruited university students to be either teacher or learner, similar to Milgram experiment. Every time learner made error, teacher was instructed to a shock to learner. Teacher chose the level of shock to give the learner. 
+
+RWAs selected significatly higher shocks. Average was 2.4/5 but RWA was higher. Authority gave them license to commit aggression. 
+
+-
+cognitive biases of high RWAs
+
+theory that people high in RWA have done less critical thinking because they usually defer to authority. So the yshould be poor critical consumers of information. May explain why they are susceptible to conspiracy theories, simplistic slogans. 
+
+Gave people a long list of statements, some were contradictory. 
+
+People high in RWA were more likely to endorse contradictory statements. 
+
+Low RWAs more likely to disagree with both (may be logically legitimate). 
+
+-
+Bullshit receptivity scale - participants rated the profundity of a series of statements that are syntactically correct and seem meaningful but are actually vacuous. Eg. Hidden meaning transforms unparalleled abstract beauty vs control: a wet person does not fear the rain.
+
+Correlated support with BS statements and support for different presidential candidates. 
+
+Clinton - not much correlation.
+
+Sanders - similarly low.
+
+Trump - significant correlation. 
+
+-
+Double standards
+
+How would you react to a law mandating religion in schools?
+
+Then same problem in terms of an Islamic society (previous were christian). 
+
+High RWA people were more likely to support christianity in schools, and didnt support islam. 
+
+-
+Authoritarianism is rooted in the perception that the world is a dangerous place
