@@ -1508,3 +1508,73 @@ High RWA people were more likely to support christianity in schools, and didnt s
 
 -
 Authoritarianism is rooted in the perception that the world is a dangerous place
+
+## Nov 9
+
+Trump sees himself as the voice of a disenfranchised group. Authoritarian submission, aggression. 
+
+Authoritarianism is rooted in the perception that the world is a dangerous place. 
+
+RWAs more alarmist, more likely to see things as out of control. More commonly see "destruction of family" as the most serious problem. Low RWAs choose environmental issues. 
+
+RWAs are more concerned about everyting in general. Low RWAs have less endorsement in general, except environmental issues.
+
+-
+Study 
+
+New Zealand participants read about and vividly imagined 1 of 3 future scenarios.
+
+- thread condition: 8 years of economic decline, social disintegration
+- secure condition: economic boon, crime decreases
+- control: unchanged
+
+DV: authoritarianism
+
+Hypotheses: social thread should increase RWA. BDW scores should mediate the effect
+
+Result: Threat condition predicts greater endorment that the word is a dangrous and chaotic place, shifts more likely to support RWA. (BDW = belief in a dangerous world)
+
+Making people the world is in a bad place leads to RWA. Can see this in Trump's rhetoric. 
+
+-
+Not just existential threats, cultural threats as well. 
+
+Study:
+
+participants high or low in RWA read about an immigrant who either intended to assimilate or did not intend to do so to Swiss culture.
+
+Measured RWA
+
+IV: assimilitaion vs no assimilation condition
+
+DV: Immigrant persecution measure (based on posse/vigilante measure)
+
+Result:
+
+- non-assimilation condition: significant association betwen RWA and immigrant persecution
+- assimiliation condition: no significant correlation between variables. RWAs aren't always anti-immigrant, only when there's a threat
+
+-
+Global change game: what happens when RWAs rule the world?
+
+50-70 participants role-play international decision makers dealing with environmental and economic crises and international conflicts. 
+
+Participants assigned to nation states on a map with unequal distribution of resources within and between nations. 
+
+Some play the role of elites and others represent non elites.
+
+As game progresses, nations experience pop growth, job growth, deaths due to famine, disease, war etc
+
+Deaths are symbolized by wearing armbands
+
+Elites have the option of hoarding resources, nations can decide to form alliances with each other or engage in warfare.
+
+Elites have options that non elites don't. 
+
+Low RWA: no wars, threats of war, armies decreased nation wide (demilitarizition). Scheduled global summits, international coordination, environamental emission controls. As third world problems mounted, Europe intervened but North america ignored. Indian refugees not accepted when they needed help. 400 million total casualties. Global pop to 8.7 billion, and food and jobs to all. Through sustainable economics, demilitarization. Not a global utopia, there were problem, but on the whole, managed pretty well.
+
+High RWA: superpowers kept nukes, middle east doubled oil prices, North America invaded, retaliated with nuclear force, destroyed all life. 
+
+2nd chance: Serious crises, elites hoarded resources, 1.7 billion died from starvation, disease. 
+
+RWA tends to spread, contagion. Trend that is increasing. RWA are less critical consumers of information. 
