@@ -1578,3 +1578,45 @@ High RWA: superpowers kept nukes, middle east doubled oil prices, North America 
 2nd chance: Serious crises, elites hoarded resources, 1.7 billion died from starvation, disease. 
 
 RWA tends to spread, contagion. Trend that is increasing. RWA are less critical consumers of information. 
+
+## Nov 11
+
+MAGA - nostalgic, restore greatness in the economy, especially in industrial communities. He also talked about investing in infrastructure. 
+
+Tendency for white americans to see gains of opressed groups as losses for their groups.
+
+Black americans see not much change in bias against white americans. However white americans see escalating bias against them. White americans have a 0 sum view. See other groups being less opressed as more opression for them. 
+
+-
+Sample of respondents were asked to indicate how they perceived the relative statuses of various groups. 
+
+Interviewer provided a diagram of concentric circle and asked participants to depict the relative social power of groups.
+
+Most powerful group in innermost circle, and outward to depict increasing distance from power.
+
+Result: white americans losing status over time. Perceived group as losing ground relative to others over time. These people are significantly more likely to support Trump, Tea party, far right party (hypothetical). 
+
+In Britain, these people support UKIP and BNP (right) compared to average British purpose. Perception of relative status lost. 
+
+-
+social dominance theory
+
+Group based heirarchies. 3 main types:
+
+- age based (adults dominate young): universal
+- gender based (patriatchy): universal
+- arbirary set (eg. castes, ethnic/racial groups, social classes): product of economic surplus
+
+Unregulated markets and criminal justice system function to perpetuate hierarchy. 
+
+Audit study: see amount of additional money required in final car sale offers to various groups compared to white men. Black men end up paying 1300 more, black women 446 more, white women pay 215 more than white man. 
+
+Another study: number of positive responses from job applications. White canadian and black west indian immigrant with same qualifiactions: white person much more responses.
+
+Another study, counted police stops in terms of race and gender. Black males are most likely to be stopped. 
+
+Same study in Toronto, Kingston. Especially if blakc person in predominantly white area. 
+
+Another study: when students starting at RMC not much difference between attitude towards outgroups in relationship to identification as military officer. In 4th year, more bias when strong identification as a military officer. 
+
+__-- got bored, stopped taking notes, but there were details in the slides --__
