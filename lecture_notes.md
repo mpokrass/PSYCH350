@@ -1620,3 +1620,111 @@ Same study in Toronto, Kingston. Especially if blakc person in predominantly whi
 Another study: when students starting at RMC not much difference between attitude towards outgroups in relationship to identification as military officer. In 4th year, more bias when strong identification as a military officer. 
 
 __-- got bored, stopped taking notes, but there were details in the slides --__
+
+## Nov 14
+
+The psychology of precarious manhood. Implications for understanding backlash against gender progress and "feminization" of culture. 
+
+Hillary got a lot of negative reactions because she was a woman. 
+
+Responding to a perceived crisis of masculinity in American culture. 
+
+Many men and republicans agreed with the statement that US had become "too soft and feminine". 60% reps agreed, 50% men. 42% americans in total.
+
+Trump supporters most likely to agree with this statement, 68%. Much fewer Sanders supporters.
+
+Obama's opponents expressed concerned that he weaked America's power to the world. Obama brought more of a feminine style to office. Lot of conservatives said he was "the first female president". 
+
+-
+Worry about terrorism and need for a leader willing to break some rules.
+
+Strong correlation with fear about terrorism and desire for strong leader who may break rules. 
+
+Exit polls: 36% of voters said they were voting for strong leader, only 16% said voting for candidate sharing their values. In 2012 it s 18% vs 27%, flipped. 
+
+-
+Perceived increase in discrimination against men
+
+Men say there was an increased discrimination against men. Both men and women say there was decreased discriminitaion against women, but women say men's discrimination is flat. (similar to the while and black graph). Zero sum pattern: gain in some groups linked to a decline in others.
+
+Men more likely to see men worse off than women. 
+
+Conservative men see this more than liberal men. 
+
+-
+Masculine identity is seen as more inherently problematic, more subject to threat. Because masculine identity requries social proof/validation, they tend to respond defensively whenever masculinity called into question. Make efforts to reassert masculinity when called into question. By contract, women should be less likely to defensively overcompensate. 
+
+-
+Explanations
+
+Psychoanalysis: primary bond with mother makes gender role attainment more problematic for men than for women. 
+
+Sexual selection theory: more variable reproductive success among males than females. More competition among men to expand those opportunities. 
+
+Sociological: gender based division of labor sorts men into riskier labor than women.
+
+-
+Study: evaluated proverbs including 6 that expressed precarious gender identity.
+
+Varied whether critical proverbs expressed precarious manhood or womanhood. 
+
+Rated how much they agreed with and liked each proverb.
+
+People agreeds that manhood was more precarious. 
+
+-
+Participants read statement ostensibly from autobiography. Varied gender of author, statment about loss of gender. Coded for interpretation.
+
+Eg. sex change vs social changes
+
+For female author, more likely to attribute it to physical change (eg. women doesnt feel like a woman more).
+
+For male author, much likelier to be interpreted as a social change.
+
+-
+Economic dislocation and masculinity threat
+
+unemployed vs not men and women interviewed about eprceptions of unemployment on perceptions. 
+
+Participants reported whether unemployment led/would lead others to see them as "not a real man/woman" or "less of a man/woman"
+
+Basically: would unemployment undermine your gender identity.
+
+Men were more likely to believe that it would. Either imagined or real. 
+
+-
+Had people take a survey that was said to be "gender identity survey." Received score telling them where they lay on the range. 
+
+IV: assigned result of feedback. Either gender affirming or gender threatening. 
+
+Then studied if men acted in a much more traditionally masculine way after gender threat.
+
+DV: support for Iraq war (studied mid 2000 - 2010s). 
+
+Result: male participants increased support for Iraq war after gender threat. No effect for women, regardless of gender affirming or gender threat, equally opposed. Supports the idea that gender threats for women don't cause any change in behaviour. 
+
+Also DV: anti gay attitudes.
+
+Result: men had much more antigay attitudes after gender threat. Women had no statistical effect. 
+
+Political attitudes are one expression of masculinity. One context in which they may overcompensate after gender threat. 
+
+-
+Study in Poland, participants read an article showing the ratio of one's index finger to ringer finger (2D:4D ratio) indicates testosterone levels.
+
+Article content manipulated to provide feedback that would iether suggest that participant had low vs high testosterone (masculunity measure)
+
+IV: feminine vs masculine feedback
+
+DV: reported opinions regarding non traditional parental roles, willingness to join collective action to promote gender equality
+
+Result:
+
+- high testosterone: men more supportive for non traditional parental roles
+- low testosterone: men less supportive for non traditional parental roles
+
+women no change
+
+Same pattern for collective action. 
+
+male identity is more precarious and easily threatened, leading to backlash and more extreme measures. 
