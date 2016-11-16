@@ -1728,3 +1728,108 @@ women no change
 Same pattern for collective action. 
 
 male identity is more precarious and easily threatened, leading to backlash and more extreme measures. 
+
+## Nov 16
+
+Moral worldviews and sociopolitical ideologies
+
+Lots of controversy over the canadian/ontario sex education curriculum. Sustained controversy. Effects election results, even.
+
+In an Ontario poll, parents were asked. 3% said they removed their children from public schools, 13% considered doing so. 
+
+Message is often framed as protecting children, from the "dangerous" message. 
+
+Byelection in Niagara west, usually a fairly reliable conservative seat. In nomination for the party, won by a 19 year old, first year polisci student at Brock U. Won against some well-established rivals. Didn't have support of the establishment. Highly conservative views, appealed to the conservative base. 
+
+-
+Ideological roots of sociopolitical conflict (Hunter)
+
+Coined the term culture war. Views of moral authority:
+
+Called one side of controversies the orthodox side. Against proposed changes and reforms. External, definable, trascendent authority. (conforms with)
+
+The other side is the progressivist side. Spirit of rationalism and objectivism. Truth is viewed as a process, a reality that is ever unfolding. More like a moral quest, not something that is settled and clearly defined. Open to revising our view on. 
+
+-
+Moral dilemma
+
+Brother and sister traveling together in France, incest, etc. Birth control and condom. 
+
+Some of the rational is that evolutionary defects. But such low odds of reproduction with birth control + condom. 
+
+Morality argument, differences in interpretation. Morality in terms of the law.
+
+Josh Stuart Mill: If no direct harm to other parties, those other parties have no grounds to legally enforce their objections. In matters of morality and politics, definition needs to be vary narrow.
+
+Patrick Devlin: our moral feelings are important to society. "We must use law to perserve society's morality." Thought that Mill was too constrained.
+
+-
+Haidt and Graham's moral foundations theory
+
+5 broad ethics form foundations of people's moral judgements
+
+2 individual ethical foundations that concern how we relate to other individuals:
+
+- ethic of fairness
+- ethic of care/harm-avoidance
+
+3 binding ethical foundations that concern how we relate to larger groups and institutions
+
+- ethics of ingroup loyalty
+- ehtic of respect for authority
+- ethic of purity/sanctity
+
+Variation between cultures in relative emphasis on these eethics as a set of guiding values.
+
+Individualizing ethics tend to be emphasized more than binding ethics in modern western culture.
+
+Variation within cultures in the relative emphasis on ethical foundations.
+
+Conservatives tend to be more concerned on issues of loyalty, moral purity.
+
+Measured to assess levels of emphasis: youmorals.org
+
+Moral relevance measure, how much each thing is relevant.
+
+Liberals lower for moral purity, ingroup.
+
+Conservatives beleive loyalty/purity are almost as important as fairness, harmony. Broader spectrum of moral concerns for conservatives than liberals. 
+
+Why do conservatives have more concerns about loyalty and respecting authority?
+
+-
+The politics of purity and disgust
+
+The function of disgust: pathogen avoidance (disease causing agents). Feces, decay, open wounds, etc.
+
+We can easily recognize facial recognitions of disgust, as well as behavioural ones (eg. gag reflex - expel toxins from our system)
+
+Disgust is transmitted by contact alone, but not for other negative emotions. 
+
+A lot of heated political discussions are related to sexual topics. 
+
+-
+Accounting for the relationship between politics and disgust
+
+Sexual conservatism may be a strategy for avoiding pathogens in a dangerous environment. Also vulnerable for losses in their community if others in their community engage in promiscious behaviour. Eg. if your partner isn't monogomous while you are. May censor other people's behaviour much more to protect themselves. 
+
+There have been studies showing this:
+
+Study 1:
+
+- at least 200 participants per country, 30 different countries
+- index estimating pathogen stress participants were exposed to (per country)
+- assessed moral traditionalism and SDO (social dominism orientation)
+- trying to differentiate between social conservatism and ingroup domination
+- prediction was that pathogen risk would increase moral traditionalism but no effect on SDO
+- this turned out to be accurate
+
+Study 2:
+
+- if disgust is an adaption to avoid pathogens, then we should tend to find an individuals relative disgust sensitivity should predict their moral traditionalism. 
+- measured disgust, core kinds of disgust. Eg. eating monkey meat, or if I see someone yak I might yak myself
+- result: level of core disgust sensitivity tends to predict social conservatism
+
+Study 3:
+
+- SD increase in average disgust sensitivty for a state predicted a 2.19% decrease in Obama's margin of victory in that state
