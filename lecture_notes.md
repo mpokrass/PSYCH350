@@ -1833,3 +1833,101 @@ Study 2:
 Study 3:
 
 - SD increase in average disgust sensitivty for a state predicted a 2.19% decrease in Obama's margin of victory in that state
+
+## Nov 18 - missed
+
+## Nov 21
+
+Attempts to resolve conflicts often assume that the parties are instrumentally rational. Logic of sacred values often defies instrumental rationality. Secular values are logical, sacred values usually aren't - involve a devoted actor.
+
+In a conflict involving sacred values, offers of material incentives for compromise (eg. sweeteners) may backfire by triggering moral offense, thus exacerbating the conflict. 
+
+-
+Atran: Talking to the enemy
+
+With sacred values, cost-benefit calculus is turned on its head and business style negotaions can backfire. Eg. paying someone to be an organ donor. 
+
+-
+Israeli-Palestine conflict:
+
+Clatsh of sacred values as barrier to two-state solution. Each side sees a few things as sacred values. Israelis often think that the land is a divine right. Argument of Jerusalem, holy sites.
+
+Palestinians have sacred value of right to return.
+
+Clash in values in recognizing each other's sates.
+
+Samples and moral absolutism measures
+
+Israeli settler sample: Israeli settlers living in West Bank and Gaza days before Israel's withdrawal from Gaza in 2005. Categorized as absolutists if they answered "NO" to "Do yo uagree that there are some extreme circumstances where it would be permissible for the Jewish people to give away part of the land of Israel?"
+
+Palestinian student sample (same time frame). Categorized as absolutists if they said they would reject any compromise over the Palestinian right of return and Palestinian sovereignty over Jerusalem. 
+
+Examples of taboo deals:
+
+Israeli:
+
+- Taboo: Israel would give up 99% of Gaza and West bank and Israel would not absorb any refugees (2 states) (Gaza and West bank = Judea and Samaria)
+- Taboo and incentive: Same as Taboo but also told, in return the US would give Israel $1 billion/year for 100 years.
+
+Palestinians:
+
+- Taboo: 2 states, Palestinians would reognize the sacred and historic right of the Jewish people to Israel. 99% of Gaza and West bank
+- Taboo and incentive: same as taboo plus Israel would pay Palestine $1 billion/year for 10 years.
+
+Measures of emotional and violent responses.
+
+Emotional: pity/disgust/approval/anger/neutral
+
+Israelis estimated the % of typical settelrs who would use violence to oppose this agreement. 
+
+Palestinians estimated the % of typical Palestinians whou would support suicide attacks to oppose the agreement.
+
+Results:
+
+- non abolutists: rational actors, as consequences more positive, less angry/upset. Getting more makes the deal more palatable. Lessened support for violence.
+- absolutists: backfire effect. Offering more makes them more upset. Material incentive implies that sacred value can be bought, which is offensive. Greater support for violence.
+
+Alternative to instrumental tradeoffs:
+
+Symbolic sacred concessions by the opposing side. 
+
+-
+Follow up study: instead of material sweeteners, added symbolic concession.
+
+Israeli settlers: Israel would give up 99% of Judea/Samaria, 2 states, would not absorb refugees. Plus: Palestinians would give up and claims to their right of return, which is sacred to them.
+
+Result: less anger for taboo + sacred concession. Also lowered support for violence. 
+
+-
+
+Also tried with Palestinains. Told them that Israel would give up West Bank and Gaza, 2 state. Plus: Israel would symbolically recognize the historic legitimacy of the right to return. 
+
+Asked them their first emotional reaction when hearing about martyrdom/suicide bombing attacks. Selected from 15 emotions, examined what % selected joy as first response.
+
+Less joy after taboo and sacred concession.
+
+Two questions asking whether Islam supported suicide bombing. Much lower support for violence after sacred concession.
+
+-
+Showing respect from the other side and their core values may open the door to dialogue and neogotiation in the worst of conflicts. 
+
+-
+Group polarization and extremism
+
+"In everyday life the exchange of opinion with others checks our partiality and widens our perspective; we are made to see things from the standpoint of others and the limits of our vision are brought home to us" - John Rawls
+
+Remember the study of sites linking to opposition vs like minded sites. Polarization, confirmation bias.
+
+Group polarization and the development of more extreme attitudes in delibrating groups
+
+-
+Pro black attitudes of low and high prejudice high school students before and after discussing racial or control topics with like-minded peers.
+
+Measured prejudice before and after.
+
+Result: 
+
+- after control discussion, no change in prejudice. If were low, stayed low, if were high, stayed high.
+- after racial discussion with like minded people: polarization, enhanced prior disposition. Eg. high prejudice participants became more so, low prejudiced people became less so. 
+
+People select for conversations where people share their point of view, makes them more extreme. 
