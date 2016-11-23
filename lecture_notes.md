@@ -1931,3 +1931,53 @@ Result:
 - after racial discussion with like minded people: polarization, enhanced prior disposition. Eg. high prejudice participants became more so, low prejudiced people became less so. 
 
 People select for conversations where people share their point of view, makes them more extreme. 
+
+## Nov 23
+
+Deliberation day
+
+Recruited voting age citizens from 2 cities in Colorado. Colorado springs (predominantly conservative) and Boulder (predominantly liberal)
+
+Before discussion, participants filled out individual questionnaires reporting their personal opinions on a number of political topics.
+
+Participants then took part in group discussions of 3 political topics with 5-7 people from communnity
+
+After group discussions participants again individually reported their attidues regarding same topics.
+
+Result: discussion polarized both groups. Conservatives became more denialist, liberals more accepting.
+
+Same for climate change, affirmative action, same sex civil union.
+
+Discussing issues during a holiday like deliberation day, within community, would likely just make everyone more extreme. People self select into conversations with like minded others.
+
+-
+Causes of group polarization
+
+- restricted argument pools
+- social comparison processes
+- effect is exacerbated by shared group identity
+
+Counteracting group polarization:
+
+- cognitive infiltration: introducing cognitive diversity into extreme groups in order to expose group members to alternative ideas and info
+- eg. goinging virtual and actual networks and present opposing POVs
+
+-
+Psychological roots of extremism
+
+Asked Arabs about their goals: collectivist goals vs individualistic. People with more collectivist goals supported attacks against US troops and civilians.
+
+Focal goals, but alternative goals often detract from the focal goals. Eg. defending group honour = focus goal, Personal safety, respect for live = alt goals. May still ocmmit terrorist violence.
+
+Hyperactivation of focal goals leads to shielding of alternative goals. Collectivist goals often win out against individualistic goals, esp. in the case of terrorist action.
+
+-
+Process of radicalization
+
+Quest for personal significance. Activation of significant quest goal
+
+- pursuing collectivist goals as a means of enhancing personal signficance. Inidividuals who promote group welfare tend to be glorified as heroes
+- exposure to a collectivist ideology that frames violence as morally warranted and effective
+- terrorism is perceived as a means for fulfilling the goal for personal significance
+
+Significance quest + collectivist ideology + willingness for martyrdom
