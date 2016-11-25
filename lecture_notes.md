@@ -1981,3 +1981,94 @@ Quest for personal significance. Activation of significant quest goal
 - terrorism is perceived as a means for fulfilling the goal for personal significance
 
 Significance quest + collectivist ideology + willingness for martyrdom
+
+## Nov 25
+
+Some collective goals are noble/prosocial, while some are violent and antisocial. If it frames violence as morally warranted and effective then it can make terrorist action more enticing.
+
+-
+Examples of significance loss/threat
+
+- exposure to death and loss of close relations
+- relative deprivation
+- experiencing blocked opportunity due to entrenched discrimination targeting one's social identity
+- barriers to assimilation for immigrant groups
+
+participants in martyrdom are often men. Draws from precarious manhood theory. Manhood is a kind of fragile ideology. When these thigns happen to men with a culture of precarious manhood these factors are heightened, and the threat is more significant. Sense of loss of honour/significance.
+
+-
+Evidence that significance threat increases extremist motivation
+
+PArticipants: iraqi and palestinian refugees in jordan
+
+Measure of personal significance: eg: "i understand my life's meaning", "my life has a significant purpose"
+
+Mesure of extremist motivation: eg "i would be willing to give away all of my belongings for an important cause". Reverse scored: "it is senseless to sacrifice one's life for a cuase"
+
+Results: as hypothesized, perceived personal significance was a signficant negative predictor of extremist motivation
+
+-
+Participants: us university students
+
+Manupulation of significance threat:
+
+- study 1: belongingness threat:
+  - threat condition: write about time you felt left out and isolated
+  - control: write about dental pain
+- study 2: goal threat:
+  - goal threat: participants listed 3 goals they should have accomplished by this point but had not yet. Exmaplin how failure made them feel
+  - control condition: 3 goals they expected to accomplish and did, and explained how they felt 
+
+DV: measure of extremist motivation
+
+-
+Participants: religious believers
+
+measured intrinsic religiosity
+
+Manipulated expsoure to sexually explicit stimuli:
+
+- sexual temptation condition: participants viewed images of scantily clad women
+- control: no sexual images
+
+Measured sexual guilt "eg masturbation is wrong"
+
+Measured extremist motivation
+
+Results: in sexual temptation condition: correlation between intrinsic religiosity and sexual guilt. Also between religioisity and extremism. Also sexual guilt mediated the association between religiosity and extremism.
+
+-
+Evidence that terrorists frame their actions in relation to collectivistic ideologies as means to achieve significance
+
+Studied the tapes that people leave behind when they commit terrorist/suicidal actions. Motivations people expressed were collectivist, nationalist. Also some expression of glorification in this collective cause. Talking about sacrifice, honour. Also mentioned special gifts in the afterlife. 
+
+-
+Strategies for de-radicalization
+
+Goal shift: 
+
+- reduce priority of significance quest in people's lives. Provide alternative avenus for significance. Eg. training that will allow them to be more successful in career/personal life. Fulfilling the goal of significance quest through alternative means. 
+- Activate alternative goal. Eg. mundane practical goals like responsibilities, like wives and children (they are often historically unmarried). Can't afford to engage in significance quest.
+
+Means shift:
+
+- ideology shift. Eg. remind people that their religious tradition frames violent action as immoral. Exposing them to more moderate voices
+- violence non-utility. Convince that there are other, more effective means, of promoting group welfare.
+
+-
+Hasn't been much research on de-radicalization. 
+
+One study:
+
+Prison camp composed of members of Tamil Tigers.
+
+Psychology based de-radicalization program.
+
+- separated moderate members from extremist leaders to break ties to collectivist ideology
+- referred to program participants as "beneficiaries" instead of prisoners or detainees
+- individualistic focus on arts/spiritual development
+- vocational training to provide alternative means for significance
+
+Assessed participants' support for armed violence against the Sinhalese before intervention and 9 months into the intervention against the control (no intervention)
+
+Result: Reduction in extremism in detainees who experienced intervention, no change for those who hadn't.
