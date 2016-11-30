@@ -2072,3 +2072,70 @@ Psychology based de-radicalization program.
 Assessed participants' support for armed violence against the Sinhalese before intervention and 9 months into the intervention against the control (no intervention)
 
 Result: Reduction in extremism in detainees who experienced intervention, no change for those who hadn't.
+
+## Nov 28 (missed)
+
+## Nov 30
+
+Dehumanization of black people, analogyzing black people to apes. Prevalent belief system at the time. Does the association of black people -> apes correlate with increased support for violence against black people? Yes.
+
+Eg. Beating of Rodney King. "out of Gorillas in the Mist"
+
+-
+Researches examined 153 death penalty eligible cases from a database consisting of cases that reached penalty phase in Philadelphia. 
+
+Race of defendant coded using mug shots.
+
+Newspaper accounts of each case were assembled and coded for words associated with apes. 
+
+Each case given score for total number of ape-related words used.
+
+Tested whether media accounts of black defendents who were assigned death penalty were more likely to contain ape related words, controlling for crime severity, socioeconomic status, circumstances.
+
+Result: Found that much more association with ape words for blacks then whites. Then among blacks, much higher association with those who got the death penalty. 
+
+Not sure what cause/effect are here. Correlational.
+
+-
+Experimental
+
+Participants subliminally primed with words to related to either big cats (eg. lions) or apes, and then evaluated a scene of police violence against a white or black citizen.
+
+Subliminal priming task: seemingly simple task, flash of dots, press button depending on side. Each flash consisted of masking letter string (random strings) followed by animal word, which varied between participants. Participants consciously recognized the flash, but not what it was.
+
+Measure of endorsement of aggression against blacks: 2 min video of police violently subduing suspect. Race of suspect varied by showing a mug shot depicting either a white or black man. Analogy to Rodney King case. Suspect was described as a loving husband and father but had a prior criminal record, and may have been high on PCP. Told that he was wanted and beaten by police after lengthy pursuit.
+
+After viewing video, participants rated how justified it was for the police to beat the suspect.
+
+Result: more beating justification for ape prime and black suspect. 
+
+-
+How do we combat this?
+
+Combat the idea that they aren't human. Eg "I am a man", black lives matter movement. 
+
+Taking the perspective of the opressed community.
+
+-
+Leveraging psychology to enhance policy effectiveness
+
+"if a policy maker does not consult psychological theory and reasearch, he will not avoid it, rather he will force himself to make his own and it will be bad psychology"
+
+-
+Organ donation
+
+lots of people need organs. Medical science is advancing, but lag in actual organs. 
+
+In Poland alsmost all eligible donors register, in Canada it's around 30%. Why is this? 
+
+Eg. Denmark, Netherlands, UK, Germany markedly lower, closer to Canada than Austria, Belgium, France, etc. (nearly full participation rate)
+
+The differences generally come in from the model of organ registration - opt in vs opt out.
+
+Why do defaults matter? People avoid effort. Transaction costs. Effort of thinking about the issue.
+
+Assumption is that people always have preferences, and asking us just reveals us. But actually we sometimes construct the preferences upon questioning.
+
+Loss aversion and the framing of decision trade offs.
+
+We interpret the default as an implicit recommendation -- what we ought to do.
