@@ -2139,3 +2139,166 @@ Assumption is that people always have preferences, and asking us just reveals us
 Loss aversion and the framing of decision trade offs.
 
 We interpret the default as an implicit recommendation -- what we ought to do.
+
+## Dec 2 (missed)
+
+## Dec 5
+
+Final exam - review session info will be posted on learn.
+
+Format similar to midterm - MC and short answer. Non-cumulative. 
+
+-
+Aggressive policing tends to be enforced in discriminatory ways. Erodes their confidence in police and its legitimacy. As subjection to police stops increases, decline in general legitimacy of the police. If we are treated in ways we find disrespectful, can undermine our support for the law. So random stops can be counterintuitive. 
+
+People judge the outcomes they receive as well as the quality of procedures that yielded that outcome. People think the outcome is fair if the procedure was fair. (the voice effect - if given the opportunity to voice your side and it was heard).
+
+-
+Interviews with New Yorkers
+
+Examined two motivation predictors of cooperation:
+
+- instrumental motivation: R's perceptions of effectiveness of police at fighting crime in R's neighbourhood; quality of police service and protection to people in R's neighbourhood
+- respect motivation: whether police treat people fairly and with respect
+
+Cooperation behaviours (DV)
+
+- willingness to voluntarily help police by calling to report crimes, reporting suspicious activites, volounteering time, etc
+
+Result:
+
+- social motivations highly correlated with cooperation behaviours (significantly stronger than instrumental motivations - effectiveness)
+
+Agressive policing may backfire - erode citizen respect for law
+
+-
+Another study
+
+Sample of young, male, members of non-majority ethnic/racial groups living in London, UK
+
+Respondents were asked whether they had been stopped by police within past 12 months
+
+If yes, were asked whether:
+
+1) they were given a reason for why stopped
+2) told what would happen next
+3) treated with respect
+4) whether police were justified in stopping them
+
+Response alternatives:
+
+- yes, fully (3)
+- yes, to some extent (2)
+- not really (1)
+- not at all (0)
+
+Mean of 4 items was taken. No procedural justice was defined as avg between 0 and 1.5. Strong procedural justice was defined as avg between 2.1 and 3.
+
+DV: measures of support for private use of violence 
+
+eg. is it ok to protect yourself from attacks in the street, or from intruder at home, using violence to protest against things that they think are unfair
+
+Result: 
+
+- violence to defend self: if low procedural justice, significantly more likely to resort to violence (0.52) vs 0.05 when strong procedural justice
+- political violence: even more dramatic (0.4 when unfair, -0.1 when fair)
+
+-
+Measure of polic intrusion during stop
+
+Summed reports of whether the police did each of the following during the stop:
+
+- ask for id
+- frisk/pat down
+- search your bags
+- threaten to use physical force
+- actually use physical force
+- handcuff
+- take out weapon and/or threaten to use it
+- arrest/take to police station
+
+Measures psychological well-being. (ptsd scale, as well as anxiety test)
+
+Result: the more intrusive the stop was, the more psychological stress they showed.
+
+-
+In London, ON. Was considering legislation to ban use of certain police council. Unanimously voted against practive of carding in London, ON. One councilman was stopped 15 times in his adulthood. 
+
+-
+Crisis of confidence in liberal social-democratic institutions
+
+Since 1970s, clear decline in trusting other people. Erosion of support for social democracies. Rise of right wing and populist parties in Europe. Their share of votes is increasing. Increasingly effective voice of right wing populists.
+
+What greivances predict support for right-wing populism?
+
+Asked people about economic preferences:
+
+- gov't should take measures to reduce difference in income levels (negatively scored)
+- need strong trade unions (negatively scored)
+
+REstrictive immigration policy preferences:
+
+- refugees should be allowed to bring their close family members
+- if people who come here commit any crime they should be made to leave
+
+Which is stronger predictor, economics or immigration?
+
+DV: support for right wing parties
+
+Result: 
+
+- trend with increasing right wing economic preferences (but pretty slight)
+- much stronger trend with immigration preference measure
+
+-
+Study
+
+Participants: Canadians randomly sampled from all provinces
+
+Measured proportion visible minority in census tract in which respondent resided
+
+Also recorded whether participant was member of visible minority group
+
+Trust measure: "if you lost a wallet or purse with two hundred dollars, how likely is it to be returned with the money in it if it was found by a) strangers, b) neighbours, c) friends"
+
+Result: less trust in people the more visible minorities there were (for both majority and minority residents). 
+
+-
+Policy context matters
+
+European countries sampled + North America, Japan, Australia
+
+Immigration measure: % of pop that is foreign born, from UN data
+
+Policy context measures:
+
+- measure of income inequality within country
+- multiculutralism index based on whether nation had various pro-diversity policies eg. forman endorsement of multiculturalism, multicultural school curriculum, dual citizenship, funding
+  - strong on index: Canada, Australia
+  - moderate: US, Belgium, Netherlands, Sweden, UK
+  - weak: France, Austria, Denmark, Germany, Italy, IReland, Japan, Norway, Portugal, Switzerland
+
+Measure of trust: "generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people"
+
+Measure of political action: whether respondent ever engaged in following actions: signing a petition, joining a boycott, attending a lawful demonstration
+
+Result: 
+
+- low income inequality: trust in other person increases as % foreign born increases
+- high income inequality: trust in other person decreases as % foreign born increases
+
+Economic scapegoating, immigrants are an attractive group to blame.
+
+political action:
+
+- strongest levels of support in communities where strong policy of multiculutralism and low inequality (positive correlation as % foreign born increases)
+- strong negative correlation when non multiculutral and high inequality.
+
+Policy context matters.
+
+-
+Moderating role of personal experience of intergroup contact
+
+Size of intergroup contact lowers prejudice towards them. (eg, interacting with gay people)
+
+Trust measure when meaningful contact with neighbours, high correlation.
